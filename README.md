@@ -201,7 +201,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 
 Tools to manipulate and optimize vector-based file formats.
 
-* [svgo](https://github.com/svg/svgo) ⭐ 22,626 | 🐛 255 | 🌐 JavaScript | 📅 2026-08-12 - Node.js-based tool for optimizing SVG files.
+* [svgo](https://github.com/svg/svgo) ⭐ 22,628 | 🐛 254 | 🌐 JavaScript | 📅 2026-08-13 - Node.js-based tool for optimizing SVG files.
 * [vpype](https://github.com/abey79/vpype) ⭐ 930 | 🐛 65 | 🌐 Python | 📅 2026-08-03 - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 * [svg-crowbar](https://github.com/NYTimes/svg-crowbar) ⚠️ Archived - Chrome-only bookmarklet for extracting SVG from an HTML document.
 * [svgsort](https://github.com/inconvergent/svgsort) ⚠️ Archived - Path planning for plotting SVG files, reduces time spent moving with the pen up.
@@ -427,7 +427,7 @@ Artists selling plotter art online.
 
 Related awesome lists for further exploration.
 
-* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,184 | 🐛 6 | 🌐 HTML | 📅 2026-07-21
+* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,187 | 🐛 6 | 🌐 HTML | 📅 2026-07-21
 * [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) ⭐ 1,838 | 🐛 11 | 📅 2024-06-04
 * [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters) ⭐ 101 | 🐛 0 | 📅 2020-12-29
 

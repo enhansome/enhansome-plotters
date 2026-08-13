@@ -869,10 +869,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T23:57:13Z",
+            "last_commit": "2026-08-13T09:04:18Z",
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22626
+            "stars": 22628
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15184
+            "stars": 15187
           }
         },
         {
@@ -1065,7 +1065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:24:41.674Z",
+    "last_updated": "2026-08-13T14:46:13.066Z",
     "original_repository": "beardicus/awesome-plotters",
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
     "enhanced_repository": "enhansome/enhansome-plotters",
