@@ -266,7 +266,7 @@
             "last_commit": "2026-08-05T06:37:58Z",
             "owner": "cncjs",
             "repo": "cncjs",
-            "stars": 2634
+            "stars": 2636
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2026-04-15T08:00:34Z",
             "owner": "vlachoudis",
             "repo": "bCNC",
-            "stars": 1746
+            "stars": 1745
           }
         },
         {
@@ -656,7 +656,7 @@
             "last_commit": "2023-07-22T09:07:03Z",
             "owner": "LingDong-",
             "repo": "linedraw",
-            "stars": 857
+            "stars": 858
           }
         },
         {
@@ -670,7 +670,7 @@
             "last_commit": "2026-08-08T16:04:29Z",
             "owner": "autotrace",
             "repo": "autotrace",
-            "stars": 719
+            "stars": 720
           }
         },
         {
@@ -869,10 +869,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T09:04:18Z",
+            "last_commit": "2026-08-13T17:34:44Z",
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22628
+            "stars": 22631
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15187
+            "stars": 15193
           }
         },
         {
@@ -1065,7 +1065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:46:13.066Z",
+    "last_updated": "2026-08-14T14:41:03.112Z",
     "original_repository": "beardicus/awesome-plotters",
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
     "enhanced_repository": "enhansome/enhansome-plotters",
