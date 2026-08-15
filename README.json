@@ -656,7 +656,7 @@
             "last_commit": "2023-07-22T09:07:03Z",
             "owner": "LingDong-",
             "repo": "linedraw",
-            "stars": 858
+            "stars": 857
           }
         },
         {
@@ -667,7 +667,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-08T16:04:29Z",
+            "last_commit": "2026-08-15T11:24:05Z",
             "owner": "autotrace",
             "repo": "autotrace",
             "stars": 720
@@ -869,10 +869,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T17:34:44Z",
+            "last_commit": "2026-08-15T08:56:32Z",
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22631
+            "stars": 22632
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15193
+            "stars": 15195
           }
         },
         {
@@ -1065,7 +1065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:41:03.112Z",
+    "last_updated": "2026-08-15T14:01:27.171Z",
     "original_repository": "beardicus/awesome-plotters",
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
     "enhanced_repository": "enhansome/enhansome-plotters",
