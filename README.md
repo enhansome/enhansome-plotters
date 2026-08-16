@@ -70,7 +70,7 @@ Pen plotters available to build or purchase, historical information, and restora
 
 Hardware for driving stepper motors and controlling pen plotters.
 
-* [TinyG](https://github.com/synthetos/TinyG) ⭐ 942 | 🐛 71 | 🌐 G-code | 📅 2025-09-06 - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+* [TinyG](https://github.com/synthetos/TinyG) ⭐ 943 | 🐛 71 | 🌐 G-code | 📅 2025-09-06 - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
 * [grblShield](https://github.com/synthetos/grblShield) ⭐ 139 | 🐛 6 | 🌐 C | 📅 2013-11-07 - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
 * [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - Grbl-compatible stepper motor control shield for Arduino, similar to the grblShield.
 * [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
@@ -122,7 +122,7 @@ G-code is a text-based standard for controlling CNC machines. Though it was desi
 
 * [grbl](https://github.com/grbl/grbl) ⭐ 6,260 | 🐛 564 | 🌐 C | 📅 2024-06-02 - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
 * [cncjs](https://github.com/cncjs/cncjs) ⭐ 2,636 | 🐛 141 | 🌐 JavaScript | 📅 2026-08-05 - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
-* [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) ⭐ 2,247 | 🐛 195 | 🌐 Java | 📅 2026-08-11 - Java-based grbl-compatible cross-platform G-code sender.
+* [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) ⭐ 2,248 | 🐛 195 | 🌐 Java | 📅 2026-08-16 - Java-based grbl-compatible cross-platform G-code sender.
 * [gcodeplot](https://github.com/arpruss/gcodeplot) ⭐ 198 | 🐛 20 | 🌐 Python | 📅 2025-04-21 - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 * [svg2gcode](https://github.com/vishpat/svg2gcode) ⭐ 97 | 🐛 3 | 🌐 Python | 📅 2018-07-14 - Python utility for fast SVG to G-code conversion.
 * [svg2gcode](https://github.com/em/svg2gcode) ⭐ 55 | 🐛 7 | 🌐 JavaScript | 📅 2014-12-05 - Node.js command line utility for converting SVG to G-code.
@@ -138,7 +138,7 @@ Software for controlling plotter hardware.
 
 * [bCNC](https://github.com/vlachoudis/bCNC) ⭐ 1,745 | 🐛 516 | 🌐 Python | 📅 2026-04-15 - Cross-platform G-code sender and CNC control software for grbl.
 * [LaserGRBL](https://github.com/arkypita/LaserGRBL) ⭐ 1,624 | 🐛 610 | 🌐 C# | 📅 2025-05-29 - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
-* [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) ⭐ 878 | 🐛 21 | 🌐 C# | 📅 2026-06-13 - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
+* [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) ⭐ 878 | 🐛 21 | 🌐 C# | 📅 2026-08-16 - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
 * [saxi](https://github.com/nornagon/saxi) ⭐ 503 | 🐛 40 | 🌐 TypeScript | 📅 2025-02-20 - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 * [axidraw](https://github.com/evil-mad/axidraw) ⭐ 466 | 🐛 13 | 🌐 Python | 📅 2024-04-12 - Official AxiDraw extensions for Inkscape.
 * [Inkcut](https://github.com/inkcut/inkcut) ⭐ 421 | 🐛 142 | 🌐 Python | 📅 2026-08-06 - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
@@ -169,7 +169,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 * [penplot](https://github.com/mattdesl/penplot) ⭐ 273 | 🐛 1 | 🌐 JavaScript | 📅 2018-06-08 - A development environment for plotter art in JavaScript.
 * [Drawbot\_image\_to\_gcode\_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) ⭐ 184 | 🐛 12 | 🌐 Processing | 📅 2018-05-29 - Creates G-code for use on drawbots.
 * [penkit](https://github.com/paulgb/penkit) ⭐ 161 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2021-02-01 - A Python library for creating line-based SVG graphics.
-* [ThreadPlotter](https://github.com/LiciaHe/threadPlotter) ⭐ 140 | 🐛 0 | 🌐 Python | 📅 2020-07-12 - "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters".
+* [ThreadPlotter](https://github.com/LiciaHe/threadPlotter) ⭐ 141 | 🐛 0 | 🌐 Python | 📅 2020-07-12 - "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters".
 * [maptrace](https://github.com/mzucker/maptrace) ⭐ 126 | 🐛 6 | 🌐 Python | 📅 2025-01-28 - Produce watertight polygonal vector maps by tracing raster images.
 * [plotting-maps](https://github.com/piebro/plotting-maps) ⭐ 105 | 🐛 0 | 🌐 HTML | 📅 2026-08-05 - A simple web tool to create OpenStreetMap SVG maps for plotting.
 * [blackstripes](https://github.com/fullscreennl/blackstripes-python-extensions) ⭐ 102 | 🐛 7 | 🌐 C | 📅 2022-04-27 - Turns a PNG image into a SVG line drawing.
@@ -201,7 +201,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 
 Tools to manipulate and optimize vector-based file formats.
 
-* [svgo](https://github.com/svg/svgo) ⭐ 22,632 | 🐛 256 | 🌐 JavaScript | 📅 2026-08-15 - Node.js-based tool for optimizing SVG files.
+* [svgo](https://github.com/svg/svgo) ⭐ 22,634 | 🐛 256 | 🌐 JavaScript | 📅 2026-08-16 - Node.js-based tool for optimizing SVG files.
 * [vpype](https://github.com/abey79/vpype) ⭐ 930 | 🐛 65 | 🌐 Python | 📅 2026-08-03 - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 * [svg-crowbar](https://github.com/NYTimes/svg-crowbar) ⚠️ Archived - Chrome-only bookmarklet for extracting SVG from an HTML document.
 * [svgsort](https://github.com/inconvergent/svgsort) ⚠️ Archived - Path planning for plotting SVG files, reduces time spent moving with the pen up.
@@ -214,9 +214,9 @@ Tools to manipulate and optimize vector-based file formats.
 
 Single-line vector fonts or "engraving fonts".
 
-* [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) ⭐ 93 | 🐛 3 | 🌐 C | 📅 2018-01-01 - C library and original font data for the Hershey fonts.
+* [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) ⭐ 94 | 🐛 3 | 🌐 C | 📅 2018-01-01 - C library and original font data for the Hershey fonts.
 * [hf2gcode](https://github.com/Andy1978/hf2gcode) ⭐ 55 | 🐛 3 | 🌐 C | 📅 2022-04-25 - Generates G-code from text with a Hershey font.
-* [FifteenTwenty: Commodore 1520 plotter font](https://github.com/scruss/FifteenTwenty) ⭐ 21 | 🐛 0 | 📅 2025-04-11 - [Blog post](https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/) about the creation of this font from the original ROM.
+* [FifteenTwenty: Commodore 1520 plotter font](https://github.com/scruss/FifteenTwenty) ⭐ 22 | 🐛 0 | 📅 2025-04-11 - [Blog post](https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/) about the creation of this font from the original ROM.
 * [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
 * [Hershey Vector Font](http://paulbourke.net/dataformats/hershey) - `.fnt` format of vector fonts from the 60s. Includes a good overview of the original data format of the fonts.
 * [svg-fonts](https://gitlab.com/oskay/svg-fonts) - Single-line fonts in an SVG format, mainly for use with the [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape plugin.
@@ -427,10 +427,10 @@ Artists selling plotter art online.
 
 Related awesome lists for further exploration.
 
-* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,195 | 🐛 6 | 🌐 HTML | 📅 2026-07-21
-* [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) ⭐ 1,838 | 🐛 11 | 📅 2024-06-04
+* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,198 | 🐛 6 | 🌐 HTML | 📅 2026-07-21
+* [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) ⭐ 1,837 | 🐛 11 | 📅 2024-06-04
 * [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters) ⭐ 101 | 🐛 0 | 📅 2020-12-29
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

@@ -81,7 +81,7 @@
             "last_commit": "2025-09-06T14:18:19Z",
             "owner": "synthetos",
             "repo": "TinyG",
-            "stars": 942
+            "stars": 943
           }
         },
         {
@@ -277,10 +277,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-11T10:56:43Z",
+            "last_commit": "2026-08-16T09:18:09Z",
             "owner": "winder",
             "repo": "Universal-G-Code-Sender",
-            "stars": 2247
+            "stars": 2248
           }
         },
         {
@@ -395,7 +395,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-06-13T10:39:27Z",
+            "last_commit": "2026-08-16T06:52:29Z",
             "owner": "svenhb",
             "repo": "GRBL-Plotter",
             "stars": 878
@@ -768,7 +768,7 @@
             "last_commit": "2020-07-12T04:17:47Z",
             "owner": "LiciaHe",
             "repo": "threadPlotter",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -869,10 +869,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T08:56:32Z",
+            "last_commit": "2026-08-16T08:29:40Z",
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22632
+            "stars": 22634
           }
         },
         {
@@ -976,7 +976,7 @@
             "last_commit": "2018-01-01T22:29:08Z",
             "owner": "kamalmostafa",
             "repo": "hershey-fonts",
-            "stars": 93
+            "stars": 94
           }
         },
         {
@@ -1004,7 +1004,7 @@
             "last_commit": "2025-04-11T12:10:05Z",
             "owner": "scruss",
             "repo": "FifteenTwenty",
-            "stars": 21
+            "stars": 22
           }
         }
       ],
@@ -1029,7 +1029,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15195
+            "stars": 15198
           }
         },
         {
@@ -1043,7 +1043,7 @@
             "last_commit": "2024-06-04T08:35:54Z",
             "owner": "kosmos",
             "repo": "awesome-generative-art",
-            "stars": 1838
+            "stars": 1837
           }
         },
         {
@@ -1065,7 +1065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:01:27.171Z",
+    "last_updated": "2026-08-16T14:01:46.243Z",
     "original_repository": "beardicus/awesome-plotters",
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
     "enhanced_repository": "enhansome/enhansome-plotters",
