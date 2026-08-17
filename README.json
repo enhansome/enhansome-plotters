@@ -252,7 +252,7 @@
             "last_commit": "2024-06-02T19:33:15Z",
             "owner": "grbl",
             "repo": "grbl",
-            "stars": 6260
+            "stars": 6261
           }
         },
         {
@@ -398,7 +398,7 @@
             "last_commit": "2026-08-16T06:52:29Z",
             "owner": "svenhb",
             "repo": "GRBL-Plotter",
-            "stars": 878
+            "stars": 879
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2024-04-12T20:57:01Z",
             "owner": "evil-mad",
             "repo": "axidraw",
-            "stars": 466
+            "stars": 467
           }
         },
         {
@@ -667,10 +667,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T11:24:05Z",
+            "last_commit": "2026-08-17T04:43:44Z",
             "owner": "autotrace",
             "repo": "autotrace",
-            "stars": 720
+            "stars": 721
           }
         },
         {
@@ -869,10 +869,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T08:29:40Z",
+            "last_commit": "2026-08-16T15:51:11Z",
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22634
+            "stars": 22636
           }
         },
         {
@@ -976,7 +976,7 @@
             "last_commit": "2018-01-01T22:29:08Z",
             "owner": "kamalmostafa",
             "repo": "hershey-fonts",
-            "stars": 94
+            "stars": 96
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15198
+            "stars": 15206
           }
         },
         {
@@ -1065,7 +1065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:01:46.243Z",
+    "last_updated": "2026-08-17T14:11:43.045Z",
     "original_repository": "beardicus/awesome-plotters",
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
     "enhanced_repository": "enhansome/enhansome-plotters",
