@@ -141,7 +141,7 @@ Software for controlling plotter hardware.
 * [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) ⭐ 879 | 🐛 21 | 🌐 C# | 📅 2026-08-16 - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
 * [saxi](https://github.com/nornagon/saxi) ⭐ 503 | 🐛 40 | 🌐 TypeScript | 📅 2025-02-20 - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 * [axidraw](https://github.com/evil-mad/axidraw) ⭐ 467 | 🐛 13 | 🌐 Python | 📅 2024-04-12 - Official AxiDraw extensions for Inkscape.
-* [Inkcut](https://github.com/inkcut/inkcut) ⭐ 421 | 🐛 143 | 🌐 Python | 📅 2026-08-06 - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
+* [Inkcut](https://github.com/inkcut/inkcut) ⭐ 421 | 🐛 147 | 🌐 Python | 📅 2026-08-06 - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
 * [axi](https://github.com/fogleman/axi) ⭐ 284 | 🐛 14 | 🌐 Python | 📅 2020-02-29 - Unofficial Python library for the AxiDraw v3.
 * [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) ⚠️ Archived - Firmware for the Makelangelo polargraph robot.
 * [RoboPaint](https://github.com/evil-mad/robopaint) ⭐ 131 | 🐛 47 | 🌐 JavaScript | 📅 2018-01-09 - Software for the WaterColorBot.
