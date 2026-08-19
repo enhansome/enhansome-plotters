@@ -45,7 +45,7 @@ A short selection of resources to help you get started with pen plotters.
 
 Pen plotters available to build or purchase, historical information, and restoration projects.
 
-* [PlotterXY](https://github.com/jamescarruthers/PlotterXY) ⭐ 93 | 🐛 7 | 🌐 G-code | 📅 2024-07-22 - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
+* [PlotterXY](https://github.com/jamescarruthers/PlotterXY) ⭐ 94 | 🐛 7 | 🌐 G-code | 📅 2024-07-22 - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
 * [Apple-410](https://github.com/phooky/Apple-410) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2025-04-29 - Apple 410 Color Plotter documentation, drivers, and ROM dumps.
 * [openBrushograph](https://github.com/openBrushograph/openBrushograph_hardware) ⭐ 24 | 🐛 0 | 🌐 OpenSCAD | 📅 2026-06-19 - Open source 3d-printable XY gantry and Z-stage designed for automated brush and pen painting.
 * [Lego-Pen-Plotter](https://github.com/Jormono1/Lego-Pen-Plotter) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-06-17 - Pen plotter built entirely of LEGO and programmed with PyBricks and Python.
@@ -121,7 +121,7 @@ HPGL is a text-based protocol used by most old pen plotters and many new vinyl c
 G-code is a text-based standard for controlling CNC machines. Though it was designed for industrial machines, its use in many hobbyist 3d printer firmwares has made it ubiquitous in small-scale DIY projects as well.
 
 * [grbl](https://github.com/grbl/grbl) ⭐ 6,261 | 🐛 564 | 🌐 C | 📅 2024-06-02 - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
-* [cncjs](https://github.com/cncjs/cncjs) ⭐ 2,636 | 🐛 141 | 🌐 JavaScript | 📅 2026-08-05 - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
+* [cncjs](https://github.com/cncjs/cncjs) ⭐ 2,637 | 🐛 141 | 🌐 JavaScript | 📅 2026-08-05 - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
 * [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) ⭐ 2,248 | 🐛 194 | 🌐 Java | 📅 2026-08-18 - Java-based grbl-compatible cross-platform G-code sender.
 * [gcodeplot](https://github.com/arpruss/gcodeplot) ⭐ 198 | 🐛 20 | 🌐 Python | 📅 2025-04-21 - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 * [svg2gcode](https://github.com/vishpat/svg2gcode) ⭐ 97 | 🐛 3 | 🌐 Python | 📅 2018-07-14 - Python utility for fast SVG to G-code conversion.
@@ -201,7 +201,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 
 Tools to manipulate and optimize vector-based file formats.
 
-* [svgo](https://github.com/svg/svgo) ⭐ 22,635 | 🐛 256 | 🌐 JavaScript | 📅 2026-08-16 - Node.js-based tool for optimizing SVG files.
+* [svgo](https://github.com/svg/svgo) ⭐ 22,636 | 🐛 256 | 🌐 JavaScript | 📅 2026-08-16 - Node.js-based tool for optimizing SVG files.
 * [vpype](https://github.com/abey79/vpype) ⭐ 930 | 🐛 65 | 🌐 Python | 📅 2026-08-03 - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 * [svg-crowbar](https://github.com/NYTimes/svg-crowbar) ⚠️ Archived - Chrome-only bookmarklet for extracting SVG from an HTML document.
 * [svgsort](https://github.com/inconvergent/svgsort) ⚠️ Archived - Path planning for plotting SVG files, reduces time spent moving with the pen up.
@@ -427,10 +427,10 @@ Artists selling plotter art online.
 
 Related awesome lists for further exploration.
 
-* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,207 | 🐛 6 | 🌐 HTML | 📅 2026-07-21
+* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,212 | 🐛 6 | 🌐 HTML | 📅 2026-07-21
 * [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) ⭐ 1,837 | 🐛 11 | 📅 2024-06-04
 * [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters) ⭐ 101 | 🐛 0 | 📅 2020-12-29
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
