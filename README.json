@@ -269,7 +269,7 @@
                 "last_commit": "2024-06-02T19:33:15Z",
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6261
+                "stars": 6262
               }
             },
             {
@@ -284,7 +284,7 @@
                 "last_commit": "2026-08-05T06:37:58Z",
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2637
+                "stars": 2638
               }
             },
             {
@@ -296,7 +296,7 @@
                 "archived": false,
                 "id": 4801382,
                 "language": "Java",
-                "last_commit": "2026-08-18T04:59:05Z",
+                "last_commit": "2026-08-19T16:09:15Z",
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
                 "stars": 2248
@@ -932,10 +932,10 @@
                 "archived": false,
                 "id": 5508088,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T15:51:11Z",
+                "last_commit": "2026-08-19T14:24:46Z",
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22636
+                "stars": 22641
               }
             },
             {
@@ -950,7 +950,7 @@
                 "last_commit": "2026-08-03T06:33:18Z",
                 "owner": "abey79",
                 "repo": "vpype",
-                "stars": 930
+                "stars": 931
               }
             },
             {
@@ -1103,7 +1103,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15212
+            "stars": 15220
           }
         },
         {
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:18:41.208Z",
+    "last_updated": "2026-08-20T14:21:55.599Z",
     "original_repository": "beardicus/awesome-plotters",
     "original_repository_id": 136463450,
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
