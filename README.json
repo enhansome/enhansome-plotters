@@ -269,7 +269,7 @@
                 "last_commit": "2024-06-02T19:33:15Z",
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6262
+                "stars": 6263
               }
             },
             {
@@ -281,10 +281,10 @@
                 "archived": false,
                 "id": 41148102,
                 "language": "JavaScript",
-                "last_commit": "2026-08-05T06:37:58Z",
+                "last_commit": "2026-08-20T16:59:02Z",
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2638
+                "stars": 2639
               }
             },
             {
@@ -296,10 +296,10 @@
                 "archived": false,
                 "id": 4801382,
                 "language": "Java",
-                "last_commit": "2026-08-19T16:09:15Z",
+                "last_commit": "2026-08-20T16:38:02Z",
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2248
+                "stars": 2249
               }
             },
             {
@@ -456,7 +456,7 @@
                 "last_commit": "2024-04-12T20:57:01Z",
                 "owner": "evil-mad",
                 "repo": "axidraw",
-                "stars": 467
+                "stars": 468
               }
             },
             {
@@ -688,7 +688,7 @@
                 "last_commit": "2019-07-19T09:00:40Z",
                 "owner": "fogleman",
                 "repo": "ln",
-                "stars": 3376
+                "stars": 3374
               }
             },
             {
@@ -703,7 +703,7 @@
                 "last_commit": "2023-07-22T09:07:03Z",
                 "owner": "LingDong-",
                 "repo": "linedraw",
-                "stars": 859
+                "stars": 858
               }
             },
             {
@@ -718,7 +718,7 @@
                 "last_commit": "2026-08-17T17:59:57Z",
                 "owner": "autotrace",
                 "repo": "autotrace",
-                "stars": 722
+                "stars": 724
               }
             },
             {
@@ -748,7 +748,7 @@
                 "last_commit": "2022-04-09T00:45:16Z",
                 "owner": "evil-mad",
                 "repo": "stipplegen",
-                "stars": 480
+                "stars": 481
               }
             },
             {
@@ -935,7 +935,7 @@
                 "last_commit": "2026-08-19T14:24:46Z",
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22641
+                "stars": 22645
               }
             },
             {
@@ -1103,7 +1103,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15220
+            "stars": 15223
           }
         },
         {
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:21:55.599Z",
+    "last_updated": "2026-08-21T14:19:44.983Z",
     "original_repository": "beardicus/awesome-plotters",
     "original_repository_id": 136463450,
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
