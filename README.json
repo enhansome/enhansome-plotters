@@ -269,7 +269,7 @@
                 "last_commit": "2024-06-02T19:33:15Z",
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6263
+                "stars": 6264
               }
             },
             {
@@ -296,7 +296,7 @@
                 "archived": false,
                 "id": 4801382,
                 "language": "Java",
-                "last_commit": "2026-08-20T16:38:02Z",
+                "last_commit": "2026-08-21T16:00:43Z",
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
                 "stars": 2249
@@ -411,7 +411,7 @@
                 "last_commit": "2025-05-29T16:00:01Z",
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1624
+                "stars": 1625
               }
             },
             {
@@ -426,7 +426,7 @@
                 "last_commit": "2026-08-16T06:52:29Z",
                 "owner": "svenhb",
                 "repo": "GRBL-Plotter",
-                "stars": 879
+                "stars": 880
               }
             },
             {
@@ -932,10 +932,10 @@
                 "archived": false,
                 "id": 5508088,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T14:24:46Z",
+                "last_commit": "2026-08-22T13:50:19Z",
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22645
+                "stars": 22647
               }
             },
             {
@@ -950,7 +950,7 @@
                 "last_commit": "2026-08-03T06:33:18Z",
                 "owner": "abey79",
                 "repo": "vpype",
-                "stars": 931
+                "stars": 932
               }
             },
             {
@@ -1103,7 +1103,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15223
+            "stars": 15231
           }
         },
         {
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:19:44.983Z",
+    "last_updated": "2026-08-22T14:00:48.443Z",
     "original_repository": "beardicus/awesome-plotters",
     "original_repository_id": 136463450,
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
