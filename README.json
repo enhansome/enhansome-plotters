@@ -106,6 +106,28 @@
           "description": "Hardware for driving stepper motors and controlling pen plotters.",
           "node_type": "group",
           "title": "Motor Controllers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PlotAdapter",
+              "description": "\"Serial-GPIB converter for HP Plotters\", uses an Arduino microcontroller to convert serial HPGL to the GPIB/HP-IB expected by some older HP plotters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 491322525,
+                "language": "C++",
+                "last_commit": "2022-05-12T01:20:33Z",
+                "owner": "rhalkyard",
+                "repo": "plotadapter",
+                "stars": 26
+              }
+            }
+          ],
+          "description": "Cables, serial adapters, and replacement parts.",
+          "node_type": "group",
+          "title": "Accessories and Adapters"
         }
       ],
       "title": "Hardware"
@@ -269,7 +291,7 @@
                 "last_commit": "2024-06-02T19:33:15Z",
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6264
+                "stars": 6265
               }
             },
             {
@@ -299,7 +321,7 @@
                 "last_commit": "2026-08-21T16:00:43Z",
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2249
+                "stars": 2250
               }
             },
             {
@@ -396,7 +418,7 @@
                 "last_commit": "2026-04-15T08:00:34Z",
                 "owner": "vlachoudis",
                 "repo": "bCNC",
-                "stars": 1745
+                "stars": 1747
               }
             },
             {
@@ -411,7 +433,7 @@
                 "last_commit": "2025-05-29T16:00:01Z",
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1625
+                "stars": 1626
               }
             },
             {
@@ -426,7 +448,7 @@
                 "last_commit": "2026-08-16T06:52:29Z",
                 "owner": "svenhb",
                 "repo": "GRBL-Plotter",
-                "stars": 880
+                "stars": 882
               }
             },
             {
@@ -468,7 +490,7 @@
                 "archived": false,
                 "id": 2028278,
                 "language": "Python",
-                "last_commit": "2026-08-06T21:28:52Z",
+                "last_commit": "2026-08-23T19:09:58Z",
                 "owner": "inkcut",
                 "repo": "inkcut",
                 "stars": 421
@@ -576,7 +598,7 @@
                 "last_commit": "2025-11-12T06:40:35Z",
                 "owner": "mossblaser",
                 "repo": "py_silhouette",
-                "stars": 43
+                "stars": 44
               }
             },
             {
@@ -715,7 +737,7 @@
                 "archived": false,
                 "id": 11617405,
                 "language": "C",
-                "last_commit": "2026-08-17T17:59:57Z",
+                "last_commit": "2026-08-24T14:05:51Z",
                 "owner": "autotrace",
                 "repo": "autotrace",
                 "stars": 726
@@ -733,7 +755,7 @@
                 "last_commit": "2025-10-08T21:39:54Z",
                 "owner": "SonarSonic",
                 "repo": "DrawingBotV3",
-                "stars": 513
+                "stars": 514
               }
             },
             {
@@ -932,10 +954,10 @@
                 "archived": false,
                 "id": 5508088,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T09:46:45Z",
+                "last_commit": "2026-08-24T12:07:00Z",
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22647
+                "stars": 22650
               }
             },
             {
@@ -950,7 +972,7 @@
                 "last_commit": "2026-08-03T06:33:18Z",
                 "owner": "abey79",
                 "repo": "vpype",
-                "stars": 932
+                "stars": 933
               }
             },
             {
@@ -1103,7 +1125,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15237
+            "stars": 15240
           }
         },
         {
@@ -1141,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:02:54.398Z",
+    "last_updated": "2026-08-24T14:12:47.508Z",
     "original_repository": "beardicus/awesome-plotters",
     "original_repository_id": 136463450,
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
