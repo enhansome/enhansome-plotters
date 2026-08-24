@@ -493,7 +493,7 @@
                 "last_commit": "2026-08-23T19:09:58Z",
                 "owner": "inkcut",
                 "repo": "inkcut",
-                "stars": 421
+                "stars": 422
               }
             },
             {
@@ -954,7 +954,7 @@
                 "archived": false,
                 "id": 5508088,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T12:07:00Z",
+                "last_commit": "2026-08-24T14:45:59Z",
                 "owner": "svg",
                 "repo": "svgo",
                 "stars": 22650
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:47.508Z",
+    "last_updated": "2026-08-24T14:48:14.470Z",
     "original_repository": "beardicus/awesome-plotters",
     "original_repository_id": 136463450,
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",

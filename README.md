@@ -141,7 +141,7 @@ Software for controlling plotter hardware.
 * [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) ⭐ 882 | 🐛 21 | 🌐 C# | 📅 2026-08-16 - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
 * [saxi](https://github.com/nornagon/saxi) ⭐ 503 | 🐛 40 | 🌐 TypeScript | 📅 2025-02-20 - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 * [axidraw](https://github.com/evil-mad/axidraw) ⭐ 468 | 🐛 13 | 🌐 Python | 📅 2024-04-12 - Official AxiDraw extensions for Inkscape.
-* [Inkcut](https://github.com/inkcut/inkcut) ⭐ 421 | 🐛 147 | 🌐 Python | 📅 2026-08-23 - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
+* [Inkcut](https://github.com/inkcut/inkcut) ⭐ 422 | 🐛 147 | 🌐 Python | 📅 2026-08-23 - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
 * [axi](https://github.com/fogleman/axi) ⭐ 284 | 🐛 14 | 🌐 Python | 📅 2020-02-29 - Unofficial Python library for the AxiDraw v3.
 * [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) ⚠️ Archived - Firmware for the Makelangelo polargraph robot.
 * [RoboPaint](https://github.com/evil-mad/robopaint) ⭐ 131 | 🐛 47 | 🌐 JavaScript | 📅 2018-01-09 - Software for the WaterColorBot.
@@ -201,7 +201,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 
 Tools to manipulate and optimize vector-based file formats.
 
-* [svgo](https://github.com/svg/svgo) ⭐ 22,650 | 🐛 255 | 🌐 JavaScript | 📅 2026-08-24 - Node.js-based tool for optimizing SVG files.
+* [svgo](https://github.com/svg/svgo) ⭐ 22,650 | 🐛 254 | 🌐 JavaScript | 📅 2026-08-24 - Node.js-based tool for optimizing SVG files.
 * [vpype](https://github.com/abey79/vpype) ⭐ 933 | 🐛 65 | 🌐 Python | 📅 2026-08-03 - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 * [svg-crowbar](https://github.com/NYTimes/svg-crowbar) ⚠️ Archived - Chrome-only bookmarklet for extracting SVG from an HTML document.
 * [svgsort](https://github.com/inconvergent/svgsort) ⚠️ Archived - Path planning for plotting SVG files, reduces time spent moving with the pen up.
