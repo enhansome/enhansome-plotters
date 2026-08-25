@@ -164,7 +164,7 @@
                 "last_commit": "2021-11-06T21:10:19Z",
                 "owner": "drepetto",
                 "repo": "chiplotle",
-                "stars": 39
+                "stars": 40
               }
             },
             {
@@ -239,7 +239,7 @@
                 "last_commit": "2025-03-10T21:25:46Z",
                 "owner": "cyprienh",
                 "repo": "chiplotle3",
-                "stars": 13
+                "stars": 14
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-08-20T16:59:02Z",
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2639
+                "stars": 2638
               }
             },
             {
@@ -770,7 +770,7 @@
                 "last_commit": "2022-04-09T00:45:16Z",
                 "owner": "evil-mad",
                 "repo": "stipplegen",
-                "stars": 482
+                "stars": 481
               }
             },
             {
@@ -1125,7 +1125,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15240
+            "stars": 15241
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "last_commit": "2024-06-04T08:35:54Z",
             "owner": "kosmos",
             "repo": "awesome-generative-art",
-            "stars": 1837
+            "stars": 1838
           }
         },
         {
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:14.470Z",
+    "last_updated": "2026-08-25T06:03:44.493Z",
     "original_repository": "beardicus/awesome-plotters",
     "original_repository_id": 136463450,
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",

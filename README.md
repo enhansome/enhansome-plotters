@@ -104,12 +104,12 @@ Pen adapters, mounts, and recommendations.
 HPGL is a text-based protocol used by most old pen plotters and many new vinyl cutters.
 
 * [djipco/hpgl](https://github.com/djipco/hpgl) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-21 - A Node.js library to communicate with HPGL-compatible plotters and printers.
-* [Chiplotle](https://github.com/drepetto/chiplotle) ⭐ 39 | 🐛 7 | 🌐 Python | 📅 2021-11-06 - Python library for generating HPGL and interfacing with serial plotters.
+* [Chiplotle](https://github.com/drepetto/chiplotle) ⭐ 40 | 🐛 7 | 🌐 Python | 📅 2021-11-06 - Python library for generating HPGL and interfacing with serial plotters.
 * [vec](https://github.com/anachrocomputer/vec) ⭐ 27 | 🐛 3 | 🌐 C | 📅 2025-06-21 - Example C code for generating HPGL, with a turtle graphics interface.
 * [HPGL Viewer](https://github.com/drskullster/HPGLViewer) ⭐ 23 | 🐛 7 | 🌐 JavaScript | 📅 2026-02-14 - An HPGL Viewer using JavaScript and HTML5 canvas.
 * [d3-hpgl](https://github.com/aubergene/d3-hpgl) ⭐ 21 | 🐛 4 | 🌐 JavaScript | 📅 2019-09-29 - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org) library.
 * [HPGLGraphics](https://github.com/ciaron/HPGLGraphics) ⭐ 20 | 🐛 1 | 🌐 Java | 📅 2017-12-03 - A Processing library for writing HPGL files.
-* [Chiplotle3](https://github.com/cyprienh/chiplotle3) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-03-10 - Chiplotle fork updated for Python 3.x compatibility.
+* [Chiplotle3](https://github.com/cyprienh/chiplotle3) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-03-10 - Chiplotle fork updated for Python 3.x compatibility.
 * [HPGL Sender](https://github.com/LgHS/hpgl-sender) ⭐ 12 | 🐛 5 | 🌐 JavaScript | 📅 2023-04-29 - A web interface for previewing HPGL and sending it to your plotter.
 * [processing2hpgl](https://github.com/awdriggs/processing2hpgl) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2023-04-08 - A Processing library that allows for direct communication with HPGL pen plotters from within a Processing sketch.
 * [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - HTML-based HPGL Reference.
@@ -121,7 +121,7 @@ HPGL is a text-based protocol used by most old pen plotters and many new vinyl c
 G-code is a text-based standard for controlling CNC machines. Though it was designed for industrial machines, its use in many hobbyist 3d printer firmwares has made it ubiquitous in small-scale DIY projects as well.
 
 * [grbl](https://github.com/grbl/grbl) ⭐ 6,265 | 🐛 564 | 🌐 C | 📅 2024-06-02 - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
-* [cncjs](https://github.com/cncjs/cncjs) ⭐ 2,639 | 🐛 141 | 🌐 JavaScript | 📅 2026-08-20 - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
+* [cncjs](https://github.com/cncjs/cncjs) ⭐ 2,638 | 🐛 141 | 🌐 JavaScript | 📅 2026-08-20 - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
 * [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) ⭐ 2,250 | 🐛 193 | 🌐 Java | 📅 2026-08-21 - Java-based grbl-compatible cross-platform G-code sender.
 * [gcodeplot](https://github.com/arpruss/gcodeplot) ⭐ 198 | 🐛 20 | 🌐 Python | 📅 2025-04-21 - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 * [svg2gcode](https://github.com/vishpat/svg2gcode) ⭐ 97 | 🐛 3 | 🌐 Python | 📅 2018-07-14 - Python utility for fast SVG to G-code conversion.
@@ -164,7 +164,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 * [linedraw](https://github.com/LingDong-/linedraw) ⭐ 859 | 🐛 7 | 🌐 Python | 📅 2023-07-22 - Python tool to convert images to sketchy vector line drawings.
 * [autotrace](https://github.com/autotrace/autotrace) ⭐ 726 | 🐛 21 | 🌐 C | 📅 2026-08-24 - Converts bitmap images to vector graphics.
 * [DrawingBotV3](https://github.com/SonarSonic/DrawingBotV3) ⭐ 514 | 🐛 48 | 🌐 Java | 📅 2025-10-08 - Cross-platform software for converting images to line drawings.
-* [stipplegen](https://github.com/evil-mad/stipplegen) ⭐ 482 | 🐛 9 | 🌐 Processing | 📅 2022-04-09 - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
+* [stipplegen](https://github.com/evil-mad/stipplegen) ⭐ 481 | 🐛 9 | 🌐 Processing | 📅 2022-04-09 - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
 * [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) ⭐ 336 | 🐛 0 | 🌐 Processing | 📅 2023-01-28 - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
 * [penplot](https://github.com/mattdesl/penplot) ⭐ 273 | 🐛 1 | 🌐 JavaScript | 📅 2018-06-08 - A development environment for plotter art in JavaScript.
 * [Drawbot\_image\_to\_gcode\_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) ⭐ 184 | 🐛 12 | 🌐 Processing | 📅 2018-05-29 - Creates G-code for use on drawbots.
@@ -201,7 +201,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 
 Tools to manipulate and optimize vector-based file formats.
 
-* [svgo](https://github.com/svg/svgo) ⭐ 22,650 | 🐛 254 | 🌐 JavaScript | 📅 2026-08-24 - Node.js-based tool for optimizing SVG files.
+* [svgo](https://github.com/svg/svgo) ⭐ 22,650 | 🐛 258 | 🌐 JavaScript | 📅 2026-08-24 - Node.js-based tool for optimizing SVG files.
 * [vpype](https://github.com/abey79/vpype) ⭐ 933 | 🐛 65 | 🌐 Python | 📅 2026-08-03 - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 * [svg-crowbar](https://github.com/NYTimes/svg-crowbar) ⚠️ Archived - Chrome-only bookmarklet for extracting SVG from an HTML document.
 * [svgsort](https://github.com/inconvergent/svgsort) ⚠️ Archived - Path planning for plotting SVG files, reduces time spent moving with the pen up.
@@ -427,10 +427,10 @@ Artists selling plotter art online.
 
 Related awesome lists for further exploration.
 
-* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,240 | 🐛 7 | 🌐 HTML | 📅 2026-07-21
-* [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) ⭐ 1,837 | 🐛 11 | 📅 2024-06-04
+* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,241 | 🐛 6 | 🌐 HTML | 📅 2026-07-21
+* [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) ⭐ 1,838 | 🐛 11 | 📅 2024-06-04
 * [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters) ⭐ 101 | 🐛 0 | 📅 2020-12-29
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
