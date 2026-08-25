@@ -418,7 +418,7 @@
                 "last_commit": "2026-04-15T08:00:34Z",
                 "owner": "vlachoudis",
                 "repo": "bCNC",
-                "stars": 1747
+                "stars": 1746
               }
             },
             {
@@ -875,7 +875,7 @@
                 "last_commit": "2026-08-05T05:37:37Z",
                 "owner": "piebro",
                 "repo": "plotting-maps",
-                "stars": 106
+                "stars": 107
               }
             },
             {
@@ -954,10 +954,10 @@
                 "archived": false,
                 "id": 5508088,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T14:45:59Z",
+                "last_commit": "2026-08-25T14:00:46Z",
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22650
+                "stars": 22651
               }
             },
             {
@@ -1125,7 +1125,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15241
+            "stars": 15240
           }
         },
         {
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:44.493Z",
+    "last_updated": "2026-08-25T14:29:02.254Z",
     "original_repository": "beardicus/awesome-plotters",
     "original_repository_id": 136463450,
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
