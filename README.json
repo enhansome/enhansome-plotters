@@ -291,7 +291,7 @@
                 "last_commit": "2024-06-02T19:33:15Z",
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6265
+                "stars": 6266
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-08-20T16:59:02Z",
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2638
+                "stars": 2639
               }
             },
             {
@@ -433,7 +433,7 @@
                 "last_commit": "2025-05-29T16:00:01Z",
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1626
+                "stars": 1627
               }
             },
             {
@@ -740,7 +740,7 @@
                 "last_commit": "2026-08-24T14:05:51Z",
                 "owner": "autotrace",
                 "repo": "autotrace",
-                "stars": 726
+                "stars": 727
               }
             },
             {
@@ -972,7 +972,7 @@
                 "last_commit": "2026-08-03T06:33:18Z",
                 "owner": "abey79",
                 "repo": "vpype",
-                "stars": 933
+                "stars": 934
               }
             },
             {
@@ -1125,7 +1125,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15240
+            "stars": 15241
           }
         },
         {
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:29:02.254Z",
+    "last_updated": "2026-08-26T14:28:47.850Z",
     "original_repository": "beardicus/awesome-plotters",
     "original_repository_id": 136463450,
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
