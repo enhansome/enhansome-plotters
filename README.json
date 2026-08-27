@@ -306,7 +306,7 @@
                 "last_commit": "2026-08-20T16:59:02Z",
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2639
+                "stars": 2640
               }
             },
             {
@@ -448,7 +448,7 @@
                 "last_commit": "2026-08-16T06:52:29Z",
                 "owner": "svenhb",
                 "repo": "GRBL-Plotter",
-                "stars": 882
+                "stars": 881
               }
             },
             {
@@ -725,7 +725,7 @@
                 "last_commit": "2023-07-22T09:07:03Z",
                 "owner": "LingDong-",
                 "repo": "linedraw",
-                "stars": 859
+                "stars": 860
               }
             },
             {
@@ -740,7 +740,7 @@
                 "last_commit": "2026-08-24T14:05:51Z",
                 "owner": "autotrace",
                 "repo": "autotrace",
-                "stars": 727
+                "stars": 728
               }
             },
             {
@@ -755,7 +755,7 @@
                 "last_commit": "2025-10-08T21:39:54Z",
                 "owner": "SonarSonic",
                 "repo": "DrawingBotV3",
-                "stars": 514
+                "stars": 516
               }
             },
             {
@@ -954,10 +954,10 @@
                 "archived": false,
                 "id": 5508088,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T14:00:46Z",
+                "last_commit": "2026-08-27T14:58:51Z",
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22654
+                "stars": 22656
               }
             },
             {
@@ -1125,7 +1125,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15241
+            "stars": 15245
           }
         },
         {
@@ -1155,7 +1155,7 @@
             "last_commit": "2020-12-29T21:21:31Z",
             "owner": "msurguy",
             "repo": "awesome-3d-engines-for-plotters",
-            "stars": 101
+            "stars": 102
           }
         }
       ],
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:58:07.845Z",
+    "last_updated": "2026-08-27T23:13:58.184Z",
     "original_repository_info": {
       "archived": false,
       "id": 136463450,
@@ -1171,7 +1171,7 @@
       "last_commit": "2025-12-03T21:39:31Z",
       "owner": "beardicus",
       "repo": "awesome-plotters",
-      "stars": 1446
+      "stars": 1447
     },
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
     "enhanced_repository": "enhansome/enhansome-plotters",
