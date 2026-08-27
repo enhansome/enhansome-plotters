@@ -291,7 +291,7 @@
                 "last_commit": "2024-06-02T19:33:15Z",
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6266
+                "stars": 6269
               }
             },
             {
@@ -493,7 +493,7 @@
                 "last_commit": "2026-08-23T19:09:58Z",
                 "owner": "inkcut",
                 "repo": "inkcut",
-                "stars": 422
+                "stars": 423
               }
             },
             {
@@ -957,7 +957,7 @@
                 "last_commit": "2026-08-25T14:00:46Z",
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22651
+                "stars": 22654
               }
             },
             {
@@ -972,7 +972,7 @@
                 "last_commit": "2026-08-03T06:33:18Z",
                 "owner": "abey79",
                 "repo": "vpype",
-                "stars": 934
+                "stars": 935
               }
             },
             {
@@ -1163,9 +1163,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:28:47.850Z",
-    "original_repository": "beardicus/awesome-plotters",
-    "original_repository_id": 136463450,
+    "last_updated": "2026-08-27T11:58:07.845Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 136463450,
+      "language": null,
+      "last_commit": "2025-12-03T21:39:31Z",
+      "owner": "beardicus",
+      "repo": "awesome-plotters",
+      "stars": 1446
+    },
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
     "enhanced_repository": "enhansome/enhansome-plotters",
     "enhanced_repository_description": null,
