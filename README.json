@@ -18,7 +18,8 @@
                 "owner": "jamescarruthers",
                 "repo": "PlotteRXY",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "phooky",
                 "repo": "Apple-410",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "openBrushograph",
                 "repo": "openBrushograph_hardware",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "Jormono1",
                 "repo": "Lego-Pen-Plotter",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             }
           ],
           "description": "Pen plotters available to build or purchase, historical information, and restoration projects.",
@@ -85,7 +89,8 @@
                 "owner": "synthetos",
                 "repo": "TinyG",
                 "stars": 943
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "synthetos",
                 "repo": "grblShield",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             }
           ],
           "description": "Hardware for driving stepper motors and controlling pen plotters.",
@@ -122,7 +128,8 @@
                 "owner": "rhalkyard",
                 "repo": "plotadapter",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             }
           ],
           "description": "Cables, serial adapters, and replacement parts.",
@@ -150,7 +157,8 @@
                 "owner": "djipco",
                 "repo": "hpgl",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -165,7 +173,8 @@
                 "owner": "drepetto",
                 "repo": "chiplotle",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -180,7 +189,8 @@
                 "owner": "anachrocomputer",
                 "repo": "vec",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -195,7 +205,8 @@
                 "owner": "drskullster",
                 "repo": "hpgl-viewer",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -210,7 +221,8 @@
                 "owner": "aubergene",
                 "repo": "d3-hpgl",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -225,7 +237,8 @@
                 "owner": "ciaron",
                 "repo": "HPGLGraphics",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -240,7 +253,8 @@
                 "owner": "cyprienh",
                 "repo": "chiplotle3",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "LgHS",
                 "repo": "hpgl-sender",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "awdriggs",
                 "repo": "processing2hpgl",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             }
           ],
           "description": "HPGL is a text-based protocol used by most old pen plotters and many new vinyl cutters.",
@@ -292,7 +308,8 @@
                 "owner": "grbl",
                 "repo": "grbl",
                 "stars": 6269
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -307,7 +324,8 @@
                 "owner": "cncjs",
                 "repo": "cncjs",
                 "stars": 2640
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -318,11 +336,12 @@
                 "archived": false,
                 "id": 4801382,
                 "language": "Java",
-                "last_commit": "2026-08-21T16:00:43Z",
+                "last_commit": "2026-08-28T19:19:03Z",
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
                 "stars": 2250
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -337,7 +356,8 @@
                 "owner": "arpruss",
                 "repo": "gcodeplot",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -352,7 +372,8 @@
                 "owner": "vishpat",
                 "repo": "svg2gcode",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -367,7 +388,8 @@
                 "owner": "em",
                 "repo": "svg2gcode",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -382,7 +404,8 @@
                 "owner": "ryansturmer",
                 "repo": "node-gcode",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -397,7 +420,8 @@
                 "owner": "o0morgan0o",
                 "repo": "gcode-generative-for-processing",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             }
           ],
           "description": "G-code is a text-based standard for controlling CNC machines. Though it was designed for industrial machines, its use in many hobbyist 3d printer firmwares has made it ubiquitous in small-scale DIY projects as well.",
@@ -419,7 +443,8 @@
                 "owner": "vlachoudis",
                 "repo": "bCNC",
                 "stars": 1746
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -434,7 +459,8 @@
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
                 "stars": 1627
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -449,7 +475,8 @@
                 "owner": "svenhb",
                 "repo": "GRBL-Plotter",
                 "stars": 881
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -464,7 +491,8 @@
                 "owner": "nornagon",
                 "repo": "saxi",
                 "stars": 503
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -479,7 +507,8 @@
                 "owner": "evil-mad",
                 "repo": "axidraw",
                 "stars": 468
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -493,8 +522,9 @@
                 "last_commit": "2026-08-23T19:09:58Z",
                 "owner": "inkcut",
                 "repo": "inkcut",
-                "stars": 423
-              }
+                "stars": 424
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -509,7 +539,8 @@
                 "owner": "fogleman",
                 "repo": "axi",
                 "stars": 284
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -524,7 +555,8 @@
                 "owner": "MarginallyClever",
                 "repo": "Makelangelo-firmware",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -539,7 +571,8 @@
                 "owner": "evil-mad",
                 "repo": "robopaint",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -554,7 +587,8 @@
                 "owner": "RickMcConney",
                 "repo": "PenPlotter",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -569,7 +603,8 @@
                 "owner": "Line-us",
                 "repo": "Line-us-Programming",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -584,7 +619,8 @@
                 "owner": "fogleman",
                 "repo": "xy",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -599,7 +635,8 @@
                 "owner": "mossblaser",
                 "repo": "py_silhouette",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -614,7 +651,8 @@
                 "owner": "mossblaser",
                 "repo": "plottie",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -629,7 +667,8 @@
                 "owner": "beardicus",
                 "repo": "line-us",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -644,7 +683,8 @@
                 "owner": "ralphcrutzen",
                 "repo": "AxiTurtle",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -659,7 +699,8 @@
                 "owner": "Line-us",
                 "repo": "Inkscape-Plugin",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -674,7 +715,8 @@
                 "owner": "Jana-Marie",
                 "repo": "MP2300-Tools",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -689,7 +731,8 @@
                 "owner": "Lana-chan",
                 "repo": "pypenwriter",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             }
           ],
           "description": "Software for controlling plotter hardware.",
@@ -711,7 +754,8 @@
                 "owner": "fogleman",
                 "repo": "ln",
                 "stars": 3373
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -726,7 +770,8 @@
                 "owner": "LingDong-",
                 "repo": "linedraw",
                 "stars": 860
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -741,7 +786,8 @@
                 "owner": "autotrace",
                 "repo": "autotrace",
                 "stars": 728
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -756,7 +802,8 @@
                 "owner": "SonarSonic",
                 "repo": "DrawingBotV3",
                 "stars": 516
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -771,7 +818,8 @@
                 "owner": "evil-mad",
                 "repo": "stipplegen",
                 "stars": 481
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -786,7 +834,8 @@
                 "owner": "gwygonik",
                 "repo": "SquiggleDraw",
                 "stars": 336
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -801,7 +850,8 @@
                 "owner": "mattdesl",
                 "repo": "penplot",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -816,7 +866,8 @@
                 "owner": "Scott-Cooper",
                 "repo": "Drawbot_image_to_gcode_v2",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -831,7 +882,8 @@
                 "owner": "paulgb",
                 "repo": "penkit",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -846,7 +898,8 @@
                 "owner": "LiciaHe",
                 "repo": "threadPlotter",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -861,7 +914,8 @@
                 "owner": "mzucker",
                 "repo": "maptrace",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -876,7 +930,8 @@
                 "owner": "piebro",
                 "repo": "plotting-maps",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -891,7 +946,8 @@
                 "owner": "fullscreennl",
                 "repo": "blackstripes-python-extensions",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -906,7 +962,8 @@
                 "owner": "brubsby",
                 "repo": "cozyvec",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -921,7 +978,8 @@
                 "owner": "digitalcoleman",
                 "repo": "generativeExamples",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -936,7 +994,8 @@
                 "owner": "bleeptrack",
                 "repo": "scribbleplot",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             }
           ],
           "description": "Tools to create vector artwork from scratch or by conversion from other formats.",
@@ -957,8 +1016,9 @@
                 "last_commit": "2026-08-27T14:58:51Z",
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22656
-              }
+                "stars": 22655
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -973,7 +1033,8 @@
                 "owner": "abey79",
                 "repo": "vpype",
                 "stars": 935
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -988,7 +1049,8 @@
                 "owner": "nytimes",
                 "repo": "svg-crowbar",
                 "stars": 845
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -1003,7 +1065,8 @@
                 "owner": "inconvergent",
                 "repo": "svgsort",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -1018,7 +1081,8 @@
                 "owner": "paulgb",
                 "repo": "penkit",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -1033,7 +1097,8 @@
                 "owner": "ezheidtmann",
                 "repo": "polargraph-optimizer",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -1048,7 +1113,8 @@
                 "owner": "mossblaser",
                 "repo": "svgoutline",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             }
           ],
           "description": "Tools to manipulate and optimize vector-based file formats.",
@@ -1070,7 +1136,8 @@
                 "owner": "kamalmostafa",
                 "repo": "hershey-fonts",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -1085,7 +1152,8 @@
                 "owner": "Andy1978",
                 "repo": "hf2gcode",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             },
             {
               "node_type": "item",
@@ -1100,7 +1168,8 @@
                 "owner": "scruss",
                 "repo": "FifteenTwenty",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
             }
           ],
           "description": "Single-line vector fonts or \"engraving fonts\".",
@@ -1125,8 +1194,9 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15245
-          }
+            "stars": 15253
+          },
+          "first_seen": "2026-08-28T23:13:29.230Z"
         },
         {
           "node_type": "item",
@@ -1141,7 +1211,8 @@
             "owner": "kosmos",
             "repo": "awesome-generative-art",
             "stars": 1838
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.230Z"
         },
         {
           "node_type": "item",
@@ -1156,14 +1227,15 @@
             "owner": "msurguy",
             "repo": "awesome-3d-engines-for-plotters",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.230Z"
         }
       ],
       "title": "Other Awesomes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:13:58.184Z",
+    "last_updated": "2026-08-28T23:13:29.230Z",
     "original_repository_info": {
       "archived": false,
       "id": 136463450,
@@ -1171,7 +1243,7 @@
       "last_commit": "2025-12-03T21:39:31Z",
       "owner": "beardicus",
       "repo": "awesome-plotters",
-      "stars": 1447
+      "stars": 1448
     },
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
     "enhanced_repository": "enhansome/enhansome-plotters",
