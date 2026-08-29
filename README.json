@@ -1752,7 +1752,7 @@
             "open_issues": 12,
             "owner": "kosmos",
             "repo": "awesome-generative-art",
-            "stars": 1838,
+            "stars": 1839,
             "topics": [
               "artists",
               "awesome",
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:29:37.943Z",
+    "last_updated": "2026-08-29T17:23:57.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
@@ -1804,7 +1804,7 @@
       "open_issues": 6,
       "owner": "beardicus",
       "repo": "awesome-plotters",
-      "stars": 1448,
+      "stars": 1450,
       "topics": [
         "awesome",
         "awesome-list",

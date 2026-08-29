@@ -428,7 +428,7 @@ Artists selling plotter art online.
 Related awesome lists for further exploration.
 
 * [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,255 | 🐛 8 | 🌐 HTML | 📅 2026-07-21
-* [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) ⭐ 1,838 | 🐛 12 | 📅 2024-06-04
+* [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) ⭐ 1,839 | 🐛 12 | 📅 2024-06-04
 * [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters) ⭐ 102 | 🐛 0 | 📅 2020-12-29
 
 ***
