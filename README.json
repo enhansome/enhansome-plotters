@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Core XY plotter",
+                "homepage": null,
                 "id": 416268797,
                 "language": "G-code",
+                "license": null,
                 "last_commit": "2024-07-22T11:55:00Z",
+                "open_issues": 7,
                 "owner": "jamescarruthers",
                 "repo": "PlotteRXY",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation and driver for the Apple 410 Color Plotter.",
+                "homepage": null,
                 "id": 111579808,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-29T18:02:31Z",
+                "open_issues": 2,
                 "owner": "phooky",
                 "repo": "Apple-410",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, open source and 3D-printable DIY x-y gantry and z-mechanism for making a brush painting robot",
+                "homepage": null,
                 "id": 1104862494,
                 "language": "OpenSCAD",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-19T06:37:30Z",
+                "open_issues": 0,
                 "owner": "openBrushograph",
                 "repo": "openBrushograph_hardware",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -60,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pen plotter built entirely of lego elements including motors and controller. Programmed with PyBricks and Python.",
+                "homepage": null,
                 "id": 1072126685,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-17T00:21:23Z",
+                "open_issues": 0,
                 "owner": "Jormono1",
                 "repo": "Lego-Pen-Plotter",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             }
@@ -83,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Affordable Industrial Grade Motion Control",
+                "homepage": "https://github.com/synthetos/TinyG/wiki",
                 "id": 769672,
                 "language": "G-code",
+                "license": null,
                 "last_commit": "2025-09-06T14:18:19Z",
+                "open_issues": 71,
                 "owner": "synthetos",
                 "repo": "TinyG",
-                "stars": 943
+                "stars": 943,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -99,12 +124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1647435,
                 "language": "C",
+                "license": null,
                 "last_commit": "2013-11-07T15:53:06Z",
+                "open_issues": 6,
                 "owner": "synthetos",
                 "repo": "grblShield",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             }
@@ -122,12 +152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serial-GPIB converter for HP plotters",
+                "homepage": null,
                 "id": 491322525,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-05-12T01:20:33Z",
+                "open_issues": 0,
                 "owner": "rhalkyard",
                 "repo": "plotadapter",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             }
@@ -151,12 +186,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Node.js library to communicate with HPGL-compatible plotters and printers.",
+                "homepage": null,
                 "id": 71740758,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-21T14:21:15Z",
+                "open_issues": 0,
                 "owner": "djipco",
                 "repo": "hpgl",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "hpgl",
+                  "pen-plotter"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -167,12 +210,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Now that's a spicy plotter library",
+                "homepage": "http://chiplotle.org",
                 "id": 36457115,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-11-06T21:10:19Z",
+                "open_issues": 7,
                 "owner": "drepetto",
                 "repo": "chiplotle",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -183,12 +231,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vector graphics software to generate HPGL output to drive a plotter",
+                "homepage": null,
                 "id": 12895347,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-06-21T22:58:24Z",
+                "open_issues": 3,
                 "owner": "anachrocomputer",
                 "repo": "vec",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "c",
+                  "drawing",
+                  "drawings",
+                  "geometric",
+                  "geometry",
+                  "hpgl",
+                  "pen",
+                  "pen-holders",
+                  "pen-plotters",
+                  "plotter",
+                  "roland-plotters",
+                  "vector-graphics"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -199,12 +265,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript HPGL viewer using Canvas",
+                "homepage": null,
                 "id": 111309638,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-14T03:50:22Z",
+                "open_issues": 7,
                 "owner": "drskullster",
                 "repo": "hpgl-viewer",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "hpgl",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -215,12 +289,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serialize Canvas path commands to HPGL.",
+                "homepage": null,
                 "id": 140208015,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-09-29T23:17:50Z",
+                "open_issues": 4,
                 "owner": "aubergene",
                 "repo": "d3-hpgl",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "d3",
+                  "hpgl",
+                  "pen-plotter"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -231,12 +314,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Processing Library for writing HPGL (plotter) files",
+                "homepage": "http://ciaron.net/hpglgraphics",
                 "id": 44388115,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2017-12-03T03:13:00Z",
+                "open_issues": 1,
                 "owner": "ciaron",
                 "repo": "HPGLGraphics",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "hpgl",
+                  "processing"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -247,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Chiplotle serial plotter library for Python 3",
+                "homepage": null,
                 "id": 488737758,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-03-10T21:25:46Z",
+                "open_issues": 0,
                 "owner": "cyprienh",
                 "repo": "chiplotle3",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -263,12 +359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send HPGL code to our Roland DXY plotters through a web interface",
+                "homepage": null,
                 "id": 155179374,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-04-29T18:12:54Z",
+                "open_issues": 5,
                 "owner": "LgHS",
                 "repo": "hpgl-sender",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -279,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Processing Library to interface with HP pen plotters using HPGL",
+                "homepage": null,
                 "id": 605740920,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-08T19:36:25Z",
+                "open_issues": 0,
                 "owner": "awdriggs",
                 "repo": "processing2hpgl",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             }
@@ -302,12 +408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino",
+                "homepage": "https://github.com/gnea/grbl/wiki",
                 "id": 114102,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-02T19:33:15Z",
+                "open_issues": 564,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6269
+                "stars": 6269,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -318,12 +429,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web-based interface for CNC milling controller running Grbl, Marlin, Smoothieware, or TinyG.",
+                "homepage": "https://cnc.js.org",
                 "id": 41148102,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T16:59:02Z",
+                "open_issues": 145,
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2640
+                "stars": 2640,
+                "topics": [
+                  "cnc",
+                  "cnc-milling-controller",
+                  "cncjs",
+                  "g2core",
+                  "gcode",
+                  "grbl",
+                  "linux",
+                  "marlin",
+                  "pendant",
+                  "raspberry-pi",
+                  "serial",
+                  "smoothie",
+                  "smoothieware",
+                  "tinyg"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -334,12 +465,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.",
+                "homepage": "http://winder.github.io/ugs_website/",
                 "id": 4801382,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T19:19:03Z",
+                "open_issues": 192,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2250
+                "stars": 2250,
+                "topics": [
+                  "cnc",
+                  "g2core",
+                  "gcode",
+                  "gcode-editor",
+                  "gcode-parser",
+                  "gcode-sender",
+                  "gcode-viewer",
+                  "grbl",
+                  "grbl-control",
+                  "hacktoberfest",
+                  "java",
+                  "smoothieware",
+                  "tinyg"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -350,12 +500,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use a 3-axis machine as a pen plotter",
+                "homepage": null,
                 "id": 73337555,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-21T18:46:47Z",
+                "open_issues": 20,
                 "owner": "arpruss",
                 "repo": "gcodeplot",
-                "stars": 198
+                "stars": 198,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -366,12 +521,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python script to convert svg to gcode for Marlin firmware",
+                "homepage": null,
                 "id": 14827832,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2018-07-14T02:13:06Z",
+                "open_issues": 3,
                 "owner": "vishpat",
                 "repo": "svg2gcode",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -382,12 +542,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert SVG to Gcode",
+                "homepage": null,
                 "id": 13427767,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2014-12-05T04:24:33Z",
+                "open_issues": 7,
                 "owner": "em",
                 "repo": "svg2gcode",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -398,12 +563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GCode interpreter and simulator for node.js",
+                "homepage": null,
                 "id": 29031174,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-02-04T19:51:01Z",
+                "open_issues": 2,
                 "owner": "ryansturmer",
                 "repo": "node-gcode",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -414,12 +584,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple library for processing to generate gcode for doing pen-plotting with a 3d printer.",
+                "homepage": null,
                 "id": 215552771,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2020-02-28T00:22:52Z",
+                "open_issues": 0,
                 "owner": "o0morgan0o",
                 "repo": "gcode-generative-for-processing",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             }
@@ -437,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GRBL CNC command sender, autoleveler and g-code editor",
+                "homepage": null,
                 "id": 25359717,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-04-15T08:00:34Z",
+                "open_issues": 516,
                 "owner": "vlachoudis",
                 "repo": "bCNC",
-                "stars": 1746
+                "stars": 1746,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -453,12 +633,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Laser optimized GUI for GRBL",
+                "homepage": "http://lasergrbl.com",
                 "id": 75546309,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-29T16:00:01Z",
+                "open_issues": 612,
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1627
+                "stars": 1627,
+                "topics": [
+                  "engraver",
+                  "gcode",
+                  "grbl",
+                  "laser"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -469,12 +659,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GCode sender (not only for lasers or plotters) for up to two GRBL controller. SVG, DXF, HPGL import. 6 axis DRO. ",
+                "homepage": "https://grbl-plotter.de/",
                 "id": 61285145,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-16T06:52:29Z",
+                "open_issues": 21,
                 "owner": "svenhb",
                 "repo": "GRBL-Plotter",
-                "stars": 881
+                "stars": 882,
+                "topics": [
+                  "cad",
+                  "cam",
+                  "cnc",
+                  "dxf",
+                  "gcode",
+                  "gcode-generation",
+                  "gcode-sender",
+                  "grbl",
+                  "grbl-plotter",
+                  "hpgl",
+                  "laser",
+                  "laser-cutting",
+                  "laser-engraver",
+                  "marlin",
+                  "pen-plotter",
+                  "plotter",
+                  "polar",
+                  "svg",
+                  "tangential-knife"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -485,12 +700,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools & library for driving the AxiDraw pen plotter",
+                "homepage": null,
                 "id": 100773700,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-02-20T10:59:20Z",
+                "open_issues": 40,
                 "owner": "nornagon",
                 "repo": "saxi",
-                "stars": 503
+                "stars": 503,
+                "topics": [
+                  "axidraw",
+                  "plotter",
+                  "serial"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -501,12 +725,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Software for the AxiDraw drawing machine",
+                "homepage": null,
                 "id": 50834806,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2024-04-12T20:57:01Z",
+                "open_issues": 13,
                 "owner": "evil-mad",
                 "repo": "axidraw",
-                "stars": 468
+                "stars": 468,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -517,12 +746,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An application for controlling 2D plotters, cutters, engravers, and CNC machines.",
+                "homepage": "https://codelv.com/projects/inkcut/",
                 "id": 2028278,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T19:09:58Z",
+                "open_issues": 148,
                 "owner": "inkcut",
                 "repo": "inkcut",
-                "stars": 424
+                "stars": 425,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -533,12 +767,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for working with the AxiDraw v3 pen plotter.",
+                "homepage": null,
                 "id": 77971895,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-02-29T10:42:43Z",
+                "open_issues": 14,
                 "owner": "fogleman",
                 "repo": "axi",
-                "stars": 284
+                "stars": 284,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -549,12 +788,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "CNC firmware for many different control boards and kinematic systems.  Originally the brain of the Makelangelo art robot.",
+                "homepage": "http://www.makelangelo.com/",
                 "id": 41437557,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2021-10-18T16:23:59Z",
+                "open_issues": 13,
                 "owner": "MarginallyClever",
                 "repo": "Makelangelo-firmware",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "brains",
+                  "cnc",
+                  "firmware",
+                  "kinematics",
+                  "makelangelo-firmware",
+                  "polargraph",
+                  "robot"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -565,12 +817,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The software for your friendly painting robot kit!",
+                "homepage": null,
                 "id": 9786367,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-01-09T06:25:12Z",
+                "open_issues": 47,
                 "owner": "evil-mad",
                 "repo": "robopaint",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "drawing",
+                  "electron",
+                  "robopaint",
+                  "robot",
+                  "svg",
+                  "watercolor",
+                  "watercolorbot"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -581,12 +846,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Polar graph controler that uses repetier firmware. Inspired by work at http://www.polargraph.co.uk",
+                "homepage": null,
                 "id": 40899986,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2018-12-24T17:15:21Z",
+                "open_issues": 22,
                 "owner": "RickMcConney",
                 "repo": "PenPlotter",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -597,12 +867,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some very simple examples to get you started with the Line-us API",
+                "homepage": null,
                 "id": 121158197,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-10-19T10:00:30Z",
+                "open_issues": 0,
                 "owner": "Line-us",
                 "repo": "Line-us-Programming",
-                "stars": 122
+                "stars": 122,
+                "topics": [
+                  "drawing",
+                  "drawing-machine",
+                  "gcode-commands",
+                  "robot"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -613,12 +893,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various utilities for the Makeblock XY Plotter Robot Kit",
+                "homepage": null,
                 "id": 48560379,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-07-25T21:17:49Z",
+                "open_issues": 1,
                 "owner": "fogleman",
                 "repo": "xy",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -629,12 +914,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cross-Platform, Open Silhouette Portrait Cutter/Plotter Driver",
+                "homepage": "http://jhnet.co.uk/projects/plotter",
                 "id": 9714453,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-12T06:40:35Z",
+                "open_issues": 4,
                 "owner": "mossblaser",
                 "repo": "py_silhouette",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -645,12 +935,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A little plotting/cutting program for Silhouette Plotters",
+                "homepage": null,
                 "id": 220446396,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-06-01T15:17:38Z",
+                "open_issues": 2,
                 "owner": "mossblaser",
                 "repo": "plottie",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -661,12 +956,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for accessing Line-us drawing robots via Node.js and the browser.",
+                "homepage": null,
                 "id": 162919799,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-04T11:28:10Z",
+                "open_issues": 0,
                 "owner": "beardicus",
                 "repo": "line-us",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -677,12 +977,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Program AxiDraw with turtle graphics commands in Processing",
+                "homepage": null,
                 "id": 130847090,
                 "language": "Processing",
+                "license": null,
                 "last_commit": "2018-04-25T09:33:55Z",
+                "open_issues": 0,
                 "owner": "ralphcrutzen",
                 "repo": "AxiTurtle",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -693,12 +998,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Draw to Line-us directly from Inkscape",
+                "homepage": null,
                 "id": 126950945,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2018-05-25T13:11:37Z",
+                "open_issues": 0,
                 "owner": "Line-us",
                 "repo": "Inkscape-Plugin",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -709,12 +1019,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My collection of tools I've written for the graphtec MP2300 plotter. Demo: ",
+                "homepage": "https://twitter.com/_Jana_Marie/status/1107066424982417409",
                 "id": 176034311,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-06T19:58:52Z",
+                "open_issues": 1,
                 "owner": "Jana-Marie",
                 "repo": "MP2300-Tools",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "open-source",
+                  "otter",
+                  "plotter",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -725,12 +1045,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple utility to print vpype SVG files to the Panasonic Penwriter line of plotters",
+                "homepage": null,
                 "id": 391693170,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-27T00:41:43Z",
+                "open_issues": 0,
                 "owner": "Lana-chan",
                 "repo": "pypenwriter",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             }
@@ -748,12 +1073,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D line art engine.",
+                "homepage": "https://godoc.org/github.com/fogleman/ln/ln",
                 "id": 49353330,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2019-07-19T09:00:40Z",
+                "open_issues": 12,
                 "owner": "fogleman",
                 "repo": "ln",
-                "stars": 3373
+                "stars": 3373,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -764,12 +1094,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert images to vectorized line drawings for plotters.",
+                "homepage": null,
                 "id": 86761008,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-22T09:07:03Z",
+                "open_issues": 7,
                 "owner": "LingDong-",
                 "repo": "linedraw",
-                "stars": 860
+                "stars": 860,
+                "topics": [
+                  "artwork",
+                  "convert-images",
+                  "drawing",
+                  "plotter"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -780,12 +1120,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bitmap to vector graphics converter",
+                "homepage": null,
                 "id": 11617405,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-24T14:05:51Z",
+                "open_issues": 21,
                 "owner": "autotrace",
                 "repo": "autotrace",
-                "stars": 728
+                "stars": 728,
+                "topics": [
+                  "hacktoberfest",
+                  "svg",
+                  "vectorization"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -796,12 +1145,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DrawingBotV3 is a software for converting images into vector art",
+                "homepage": "https://docs.drawingbotv3.com",
                 "id": 330403043,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-08T21:39:54Z",
+                "open_issues": 48,
                 "owner": "SonarSonic",
                 "repo": "DrawingBotV3",
-                "stars": 516
+                "stars": 516,
+                "topics": [
+                  "drawing-application",
+                  "gcode",
+                  "hpgl",
+                  "image-to-sketch",
+                  "image-to-vector",
+                  "penplotter",
+                  "plotters",
+                  "svg",
+                  "vectorisation",
+                  "vectorizer",
+                  "video-processing"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -812,12 +1178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Software that can create stipple drawings and “TSP art,” from image files",
+                "homepage": null,
                 "id": 31178277,
                 "language": "Processing",
+                "license": "LGPL-2.1",
                 "last_commit": "2022-04-09T00:45:16Z",
+                "open_issues": 9,
                 "owner": "evil-mad",
                 "repo": "stipplegen",
-                "stars": 481
+                "stars": 481,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -828,12 +1199,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Processing app to create an SVG based on the brightness of an image transformed into sine waves.",
+                "homepage": null,
                 "id": 74513269,
                 "language": "Processing",
+                "license": "Unlicense",
                 "last_commit": "2023-01-28T19:58:31Z",
+                "open_issues": 0,
                 "owner": "gwygonik",
                 "repo": "SquiggleDraw",
-                "stars": 336
+                "stars": 336,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -844,12 +1220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[DEPRECATED] see canvas-sketch",
+                "homepage": null,
                 "id": 84518621,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-06-08T15:49:54Z",
+                "open_issues": 1,
                 "owner": "mattdesl",
                 "repo": "penplot",
-                "stars": 273
+                "stars": 273,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -860,12 +1241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creates gcode for use on drawbots",
+                "homepage": "http://dullbits.com",
                 "id": 86637734,
                 "language": "Processing",
+                "license": "GPL-3.0",
                 "last_commit": "2018-05-29T06:15:43Z",
+                "open_issues": 12,
                 "owner": "Scott-Cooper",
                 "repo": "Drawbot_image_to_gcode_v2",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -876,12 +1262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for pen plotting in Python",
+                "homepage": null,
                 "id": 113250063,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-02-01T06:16:23Z",
+                "open_issues": 4,
                 "owner": "paulgb",
                 "repo": "penkit",
-                "stars": 161
+                "stars": 161,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -892,12 +1283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 274522728,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-07-12T04:17:47Z",
+                "open_issues": 0,
                 "owner": "LiciaHe",
                 "repo": "threadPlotter",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -908,12 +1304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Produce watertight polygonal vector maps by tracing raster images",
+                "homepage": "https://mzucker.github.io/2018/05/14/maptrace.html",
                 "id": 131884482,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-28T15:30:39Z",
+                "open_issues": 6,
                 "owner": "mzucker",
                 "repo": "maptrace",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -924,12 +1325,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to easily create OpenStreetMap SVG maps to plot them with a pen plotter.",
+                "homepage": "https://piebro.github.io/plotting-maps",
                 "id": 730207100,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-05T05:37:37Z",
+                "open_issues": 0,
                 "owner": "piebro",
                 "repo": "plotting-maps",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "map",
+                  "openstreetmap",
+                  "openstreetmap-data",
+                  "osm",
+                  "pen-plotter",
+                  "plotter-art",
+                  "plotting"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -940,12 +1354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blackstripes drawings",
+                "homepage": null,
                 "id": 60514861,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-04-27T06:18:00Z",
+                "open_issues": 7,
                 "owner": "fullscreennl",
                 "repo": "blackstripes-python-extensions",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -956,12 +1375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cozy Plotter Art Terminal",
+                "homepage": null,
                 "id": 236373190,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-12T14:45:42Z",
+                "open_issues": 5,
                 "owner": "brubsby",
                 "repo": "cozyvec",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -972,12 +1396,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 116525849,
                 "language": "Processing",
+                "license": "GPL-3.0",
                 "last_commit": "2018-01-11T06:40:24Z",
+                "open_issues": 0,
                 "owner": "digitalcoleman",
                 "repo": "generativeExamples",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -988,12 +1417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "collection of my processing sketches used for transforming images to scribbly vector images",
+                "homepage": null,
                 "id": 111286880,
                 "language": "Processing",
+                "license": "MIT",
                 "last_commit": "2018-02-22T09:52:17Z",
+                "open_issues": 0,
                 "owner": "bleeptrack",
                 "repo": "scribbleplot",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             }
@@ -1011,12 +1445,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SVG Optimizer for Node.js and CLI. ⚙️",
+                "homepage": "https://svgo.dev/",
                 "id": 5508088,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T14:58:51Z",
+                "open_issues": 257,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22655
+                "stars": 22657,
+                "topics": [
+                  "cli",
+                  "hacktoberfest",
+                  "javascript",
+                  "minification",
+                  "nodejs",
+                  "optimization",
+                  "svg",
+                  "svgo"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -1027,12 +1475,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Swiss-Army-knife command-line tool for plotter vector graphics.",
+                "homepage": "https://vpype.readthedocs.io/",
                 "id": 220951503,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-03T06:33:18Z",
+                "open_issues": 65,
                 "owner": "abey79",
                 "repo": "vpype",
-                "stars": 935
+                "stars": 935,
+                "topics": [
+                  "generative-art",
+                  "hacktoberfest",
+                  "hacktoberfest2020",
+                  "multi-layer-svg",
+                  "pen-plotters",
+                  "plotter-art",
+                  "plotters",
+                  "python-3",
+                  "python3",
+                  "svg",
+                  "svg-files",
+                  "vector-graphics",
+                  "vpype"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -1043,12 +1510,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Extracts an SVG node and accompanying styles from an HTML document and allows you to download it all as an SVG file.",
+                "homepage": "https://nytimes.github.io/svg-crowbar/",
                 "id": 8639399,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-02-28T02:17:13Z",
+                "open_issues": 17,
                 "owner": "nytimes",
                 "repo": "svg-crowbar",
-                "stars": 845
+                "stars": 845,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -1059,12 +1531,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "svg path sorter for more efficient (pen)plotting.  ",
+                "homepage": "https://inconvergent.net/",
                 "id": 112507641,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-25T14:30:46Z",
+                "open_issues": 1,
                 "owner": "inconvergent",
                 "repo": "svgsort",
-                "stars": 262
+                "stars": 262,
+                "topics": [
+                  "art",
+                  "optimization",
+                  "pen-plotter",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -1075,12 +1557,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for pen plotting in Python",
+                "homepage": null,
                 "id": 113250063,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-02-01T06:16:23Z",
+                "open_issues": 4,
                 "owner": "paulgb",
                 "repo": "penkit",
-                "stars": 161
+                "stars": 161,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -1091,12 +1578,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Optimize drawing plan for a polargraph",
+                "homepage": null,
                 "id": 25382481,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2015-05-03T19:25:26Z",
+                "open_issues": 0,
                 "owner": "ezheidtmann",
                 "repo": "polargraph-optimizer",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -1107,12 +1599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python library which extracts strokes (outlines) from an SVG file as a series of line segments appropriate for driving pen plotters",
+                "homepage": null,
                 "id": 165695266,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-06-04T06:31:18Z",
+                "open_issues": 0,
                 "owner": "mossblaser",
                 "repo": "svgoutline",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             }
@@ -1130,12 +1627,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hershey vector fonts library, tools, and glyphs",
+                "homepage": null,
                 "id": 14878285,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2018-01-01T22:29:08Z",
+                "open_issues": 3,
                 "owner": "kamalmostafa",
                 "repo": "hershey-fonts",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -1146,12 +1648,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generates g-code from text with a hershey font",
+                "homepage": null,
                 "id": 10121685,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2022-04-25T11:59:01Z",
+                "open_issues": 3,
                 "owner": "Andy1978",
                 "repo": "hf2gcode",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "g-code",
+                  "hershey-fonts"
+                ]
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             },
@@ -1162,12 +1672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A mono-spaced font family derived from character stroke coordinates from the Commodore 1520 plotter ROM",
+                "homepage": null,
                 "id": 58390890,
                 "language": null,
+                "license": "WTFPL",
                 "last_commit": "2025-04-11T12:10:05Z",
+                "open_issues": 0,
                 "owner": "scruss",
                 "repo": "FifteenTwenty",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
             }
@@ -1189,12 +1704,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
+            "homepage": null,
             "id": 72586805,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-07-21T15:01:30Z",
+            "open_issues": 8,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15253
+            "stars": 15255,
+            "topics": [
+              "3d-graphics",
+              "art",
+              "awesome",
+              "awesome-list",
+              "computer-graphics",
+              "creative-coding",
+              "data-visualization",
+              "design",
+              "generative-art",
+              "graphics-programming",
+              "information-visualization",
+              "interaction-design",
+              "list",
+              "programming-graphics",
+              "resources",
+              "shaders",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.230Z"
         },
@@ -1205,12 +1743,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome generative art",
+            "homepage": null,
             "id": 86573144,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-04T08:35:54Z",
+            "open_issues": 12,
             "owner": "kosmos",
             "repo": "awesome-generative-art",
-            "stars": 1838
+            "stars": 1838,
+            "topics": [
+              "artists",
+              "awesome",
+              "awesome-list",
+              "generative-art",
+              "openframeworks",
+              "processing",
+              "vjing",
+              "vvvv"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.230Z"
         },
@@ -1221,12 +1773,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collect links to awesome 3D SVG exporters",
+            "homepage": null,
             "id": 264036438,
             "language": null,
+            "license": null,
             "last_commit": "2020-12-29T21:21:31Z",
+            "open_issues": 0,
             "owner": "msurguy",
             "repo": "awesome-3d-engines-for-plotters",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.230Z"
         }
@@ -1235,15 +1792,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:13:29.230Z",
+    "last_updated": "2026-08-29T04:29:37.943Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
+      "homepage": null,
       "id": 136463450,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-12-03T21:39:31Z",
+      "open_issues": 6,
       "owner": "beardicus",
       "repo": "awesome-plotters",
-      "stars": 1448
+      "stars": 1448,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "axidraw",
+        "gcode",
+        "grbl-firmware",
+        "hacktoberfest",
+        "hpgl",
+        "hpgl-plotters",
+        "pen-plotter",
+        "plotter",
+        "plotter-art",
+        "roland-plotters",
+        "vector-graphics"
+      ]
     },
     "original_repository_sha": "3395735dd703a298ba05fc86991c7cd87d73fc14",
     "enhanced_repository": "enhansome/enhansome-plotters",
