@@ -122,7 +122,7 @@ G-code is a text-based standard for controlling CNC machines. Though it was desi
 
 * [grbl](https://github.com/grbl/grbl) ⭐ 6,271 | 🐛 564 | 🌐 C | 📅 2024-06-02 - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
 * [cncjs](https://github.com/cncjs/cncjs) ⭐ 2,643 | 🐛 147 | 🌐 JavaScript | 📅 2026-08-20 - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
-* [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) ⭐ 2,252 | 🐛 190 | 🌐 Java | 📅 2026-09-02 - Java-based grbl-compatible cross-platform G-code sender.
+* [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) ⭐ 2,253 | 🐛 190 | 🌐 Java | 📅 2026-09-03 - Java-based grbl-compatible cross-platform G-code sender.
 * [gcodeplot](https://github.com/arpruss/gcodeplot) ⭐ 199 | 🐛 20 | 🌐 Python | 📅 2025-04-21 - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 * [svg2gcode](https://github.com/vishpat/svg2gcode) ⭐ 97 | 🐛 3 | 🌐 Python | 📅 2018-07-14 - Python utility for fast SVG to G-code conversion.
 * [svg2gcode](https://github.com/em/svg2gcode) ⭐ 55 | 🐛 7 | 🌐 JavaScript | 📅 2014-12-05 - Node.js command line utility for converting SVG to G-code.
@@ -137,7 +137,7 @@ G-code is a text-based standard for controlling CNC machines. Though it was desi
 Software for controlling plotter hardware.
 
 * [bCNC](https://github.com/vlachoudis/bCNC) ⭐ 1,746 | 🐛 516 | 🌐 Python | 📅 2026-04-15 - Cross-platform G-code sender and CNC control software for grbl.
-* [LaserGRBL](https://github.com/arkypita/LaserGRBL) ⭐ 1,630 | 🐛 612 | 🌐 C# | 📅 2025-05-29 - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
+* [LaserGRBL](https://github.com/arkypita/LaserGRBL) ⭐ 1,631 | 🐛 612 | 🌐 C# | 📅 2025-05-29 - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
 * [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) ⭐ 883 | 🐛 22 | 🌐 C# | 📅 2026-08-16 - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
 * [saxi](https://github.com/nornagon/saxi) ⭐ 503 | 🐛 40 | 🌐 TypeScript | 📅 2025-02-20 - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 * [axidraw](https://github.com/evil-mad/axidraw) ⭐ 468 | 🐛 13 | 🌐 Python | 📅 2024-04-12 - Official AxiDraw extensions for Inkscape.
@@ -201,7 +201,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 
 Tools to manipulate and optimize vector-based file formats.
 
-* [svgo](https://github.com/svg/svgo) ⭐ 22,665 | 🐛 257 | 🌐 JavaScript | 📅 2026-08-27 - Node.js-based tool for optimizing SVG files.
+* [svgo](https://github.com/svg/svgo) ⭐ 22,665 | 🐛 260 | 🌐 JavaScript | 📅 2026-08-27 - Node.js-based tool for optimizing SVG files.
 * [vpype](https://github.com/abey79/vpype) ⭐ 936 | 🐛 65 | 🌐 Python | 📅 2026-09-01 - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 * [svg-crowbar](https://github.com/NYTimes/svg-crowbar) ⚠️ Archived - Chrome-only bookmarklet for extracting SVG from an HTML document.
 * [svgsort](https://github.com/inconvergent/svgsort) ⚠️ Archived - Path planning for plotting SVG files, reduces time spent moving with the pen up.
@@ -427,10 +427,10 @@ Artists selling plotter art online.
 
 Related awesome lists for further exploration.
 
-* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,277 | 🐛 9 | 🌐 HTML | 📅 2026-07-21
+* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,281 | 🐛 11 | 🌐 HTML | 📅 2026-07-21
 * [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) ⭐ 1,839 | 🐛 12 | 📅 2024-06-04
 * [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters) ⭐ 102 | 🐛 0 | 📅 2020-12-29
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

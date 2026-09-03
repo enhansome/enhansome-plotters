@@ -470,11 +470,11 @@
                 "id": 4801382,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T04:45:45Z",
+                "last_commit": "2026-09-03T10:45:12Z",
                 "open_issues": 190,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2252,
+                "stars": 2253,
                 "topics": [
                   "cnc",
                   "g2core",
@@ -642,7 +642,7 @@
                 "open_issues": 612,
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1630,
+                "stars": 1631,
                 "topics": [
                   "engraver",
                   "gcode",
@@ -1451,7 +1451,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-27T14:58:51Z",
-                "open_issues": 257,
+                "open_issues": 260,
                 "owner": "svg",
                 "repo": "svgo",
                 "stars": 22665,
@@ -1710,10 +1710,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-07-21T15:01:30Z",
-            "open_issues": 9,
+            "open_issues": 11,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15277,
+            "stars": 15281,
             "topics": [
               "3d-graphics",
               "art",
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:24:51.442Z",
+    "last_updated": "2026-09-03T17:17:07.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
