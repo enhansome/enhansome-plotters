@@ -417,7 +417,7 @@
                 "open_issues": 564,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6274,
+                "stars": 6275,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -470,11 +470,11 @@
                 "id": 4801382,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T15:47:59Z",
-                "open_issues": 193,
+                "last_commit": "2026-09-08T16:02:45Z",
+                "open_issues": 192,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2254,
+                "stars": 2255,
                 "topics": [
                   "cnc",
                   "g2core",
@@ -621,7 +621,7 @@
                 "open_issues": 516,
                 "owner": "vlachoudis",
                 "repo": "bCNC",
-                "stars": 1746,
+                "stars": 1747,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -668,7 +668,7 @@
                 "open_issues": 22,
                 "owner": "svenhb",
                 "repo": "GRBL-Plotter",
-                "stars": 888,
+                "stars": 890,
                 "topics": [
                   "cad",
                   "cam",
@@ -1713,7 +1713,7 @@
             "open_issues": 11,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15298,
+            "stars": 15299,
             "topics": [
               "3d-graphics",
               "art",
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:25:19.397Z",
+    "last_updated": "2026-09-08T17:33:07.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
@@ -1801,7 +1801,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-12-03T21:39:31Z",
-      "open_issues": 6,
+      "open_issues": 5,
       "owner": "beardicus",
       "repo": "awesome-plotters",
       "stars": 1452,
