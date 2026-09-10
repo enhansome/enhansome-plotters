@@ -109,7 +109,7 @@
                 "language": "G-code",
                 "license": null,
                 "last_commit": "2025-09-06T14:18:19Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "synthetos",
                 "repo": "TinyG",
                 "stars": 944,
@@ -438,7 +438,7 @@
                 "open_issues": 145,
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2647,
+                "stars": 2646,
                 "topics": [
                   "cnc",
                   "cnc-milling-controller",
@@ -470,8 +470,8 @@
                 "id": 4801382,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T04:52:29Z",
-                "open_issues": 192,
+                "last_commit": "2026-09-10T04:08:16Z",
+                "open_issues": 191,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
                 "stars": 2255,
@@ -751,7 +751,7 @@
                 "id": 2028278,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-23T19:09:58Z",
+                "last_commit": "2026-09-10T01:02:53Z",
                 "open_issues": 151,
                 "owner": "inkcut",
                 "repo": "inkcut",
@@ -1154,7 +1154,7 @@
                 "open_issues": 48,
                 "owner": "SonarSonic",
                 "repo": "DrawingBotV3",
-                "stars": 518,
+                "stars": 519,
                 "topics": [
                   "drawing-application",
                   "gcode",
@@ -1451,7 +1451,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-27T14:58:51Z",
-                "open_issues": 262,
+                "open_issues": 263,
                 "owner": "svg",
                 "repo": "svgo",
                 "stars": 22667,
@@ -1713,7 +1713,7 @@
             "open_issues": 12,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15302,
+            "stars": 15304,
             "topics": [
               "3d-graphics",
               "art",
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:19:36.419Z",
+    "last_updated": "2026-09-10T17:16:04.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
@@ -1804,7 +1804,7 @@
       "open_issues": 5,
       "owner": "beardicus",
       "repo": "awesome-plotters",
-      "stars": 1452,
+      "stars": 1453,
       "topics": [
         "awesome",
         "awesome-list",
