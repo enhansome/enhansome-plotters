@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "jamescarruthers",
                 "repo": "PlotteRXY",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -414,10 +414,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2024-06-02T19:33:15Z",
-                "open_issues": 564,
+                "open_issues": 566,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6278,
+                "stars": 6279,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -434,8 +434,8 @@
                 "id": 41148102,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T15:05:00Z",
-                "open_issues": 146,
+                "last_commit": "2026-09-12T09:55:11Z",
+                "open_issues": 144,
                 "owner": "cncjs",
                 "repo": "cncjs",
                 "stars": 2647,
@@ -470,7 +470,7 @@
                 "id": 4801382,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T15:25:23Z",
+                "last_commit": "2026-09-12T08:36:48Z",
                 "open_issues": 191,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
@@ -642,7 +642,7 @@
                 "open_issues": 614,
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1635,
+                "stars": 1636,
                 "topics": [
                   "engraver",
                   "gcode",
@@ -923,7 +923,7 @@
                 "open_issues": 4,
                 "owner": "mossblaser",
                 "repo": "py_silhouette",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -944,7 +944,7 @@
                 "open_issues": 2,
                 "owner": "mossblaser",
                 "repo": "plottie",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1103,7 +1103,7 @@
                 "open_issues": 7,
                 "owner": "LingDong-",
                 "repo": "linedraw",
-                "stars": 863,
+                "stars": 864,
                 "topics": [
                   "artwork",
                   "convert-images",
@@ -1710,10 +1710,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-07-21T15:01:30Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15310,
+            "stars": 15315,
             "topics": [
               "3d-graphics",
               "art",
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:18:11.035Z",
+    "last_updated": "2026-09-12T16:31:31.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
