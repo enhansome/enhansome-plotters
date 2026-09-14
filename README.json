@@ -417,7 +417,7 @@
                 "open_issues": 566,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6279,
+                "stars": 6280,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -471,7 +471,7 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T08:36:48Z",
-                "open_issues": 191,
+                "open_issues": 190,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
                 "stars": 2256,
@@ -558,6 +558,27 @@
             },
             {
               "node_type": "item",
+              "title": "gcode-generative-for-processing",
+              "description": "Processing library, aiming to create gcode from simple shapes. (Designed for usage with the Creality CR10)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Simple library for processing to generate gcode for doing pen-plotting with a 3d printer.",
+                "homepage": null,
+                "id": 215552771,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2020-02-28T00:22:52Z",
+                "open_issues": 1,
+                "owner": "o0morgan0o",
+                "repo": "gcode-generative-for-processing",
+                "stars": 36,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
+            },
+            {
+              "node_type": "item",
               "title": "node-gcode",
               "description": "Node.js G-code interpreter and simulator.",
               "children": [],
@@ -572,27 +593,6 @@
                 "open_issues": 2,
                 "owner": "ryansturmer",
                 "repo": "node-gcode",
-                "stars": 35,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:13:29.230Z"
-            },
-            {
-              "node_type": "item",
-              "title": "gcode-generative-for-processing",
-              "description": "Processing library, aiming to create gcode from simple shapes. (Designed for usage with the Creality CR10)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Simple library for processing to generate gcode for doing pen-plotting with a 3d printer.",
-                "homepage": null,
-                "id": 215552771,
-                "language": "Java",
-                "license": "MIT",
-                "last_commit": "2020-02-28T00:22:52Z",
-                "open_issues": 0,
-                "owner": "o0morgan0o",
-                "repo": "gcode-generative-for-processing",
                 "stars": 35,
                 "topics": []
               },
@@ -639,7 +639,7 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2025-05-29T16:00:01Z",
-                "open_issues": 614,
+                "open_issues": 616,
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
                 "stars": 1636,
@@ -668,7 +668,7 @@
                 "open_issues": 22,
                 "owner": "svenhb",
                 "repo": "GRBL-Plotter",
-                "stars": 891,
+                "stars": 893,
                 "topics": [
                   "cad",
                   "cam",
@@ -1125,7 +1125,7 @@
                 "id": 11617405,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-31T11:03:10Z",
+                "last_commit": "2026-09-14T07:19:45Z",
                 "open_issues": 21,
                 "owner": "autotrace",
                 "repo": "autotrace",
@@ -1154,7 +1154,7 @@
                 "open_issues": 48,
                 "owner": "SonarSonic",
                 "repo": "DrawingBotV3",
-                "stars": 519,
+                "stars": 520,
                 "topics": [
                   "drawing-application",
                   "gcode",
@@ -1334,7 +1334,7 @@
                 "open_issues": 0,
                 "owner": "piebro",
                 "repo": "plotting-maps",
-                "stars": 108,
+                "stars": 109,
                 "topics": [
                   "map",
                   "openstreetmap",
@@ -1451,7 +1451,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-27T14:58:51Z",
-                "open_issues": 264,
+                "open_issues": 269,
                 "owner": "svg",
                 "repo": "svgo",
                 "stars": 22669,
@@ -1713,7 +1713,7 @@
             "open_issues": 12,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15320,
+            "stars": 15322,
             "topics": [
               "3d-graphics",
               "art",
@@ -1752,7 +1752,7 @@
             "open_issues": 12,
             "owner": "kosmos",
             "repo": "awesome-generative-art",
-            "stars": 1839,
+            "stars": 1840,
             "topics": [
               "artists",
               "awesome",
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:04:10.125Z",
+    "last_updated": "2026-09-14T18:53:41.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
