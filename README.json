@@ -59,7 +59,7 @@
                 "id": 1104862494,
                 "language": "OpenSCAD",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-13T13:31:53Z",
+                "last_commit": "2026-09-15T14:20:41Z",
                 "open_issues": 0,
                 "owner": "openBrushograph",
                 "repo": "openBrushograph_hardware",
@@ -435,10 +435,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-13T10:29:20Z",
-                "open_issues": 141,
+                "open_issues": 143,
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2646,
+                "stars": 2647,
                 "topics": [
                   "cnc",
                   "cnc-milling-controller",
@@ -474,7 +474,7 @@
                 "open_issues": 190,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2256,
+                "stars": 2257,
                 "topics": [
                   "cnc",
                   "g2core",
@@ -1082,7 +1082,7 @@
                 "open_issues": 12,
                 "owner": "fogleman",
                 "repo": "ln",
-                "stars": 3373,
+                "stars": 3374,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1229,7 +1229,7 @@
                 "open_issues": 1,
                 "owner": "mattdesl",
                 "repo": "penplot",
-                "stars": 273,
+                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1454,7 +1454,7 @@
                 "open_issues": 269,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22669,
+                "stars": 22671,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:53:41.364Z",
+    "last_updated": "2026-09-15T17:46:31.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
