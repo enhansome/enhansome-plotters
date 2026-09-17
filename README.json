@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "jamescarruthers",
                 "repo": "PlotteRXY",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -59,7 +59,7 @@
                 "id": 1104862494,
                 "language": "OpenSCAD",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T17:42:32Z",
+                "last_commit": "2026-09-17T09:38:05Z",
                 "open_issues": 0,
                 "owner": "openBrushograph",
                 "repo": "openBrushograph_hardware",
@@ -471,10 +471,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T08:36:48Z",
-                "open_issues": 190,
+                "open_issues": 191,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2258,
+                "stars": 2259,
                 "topics": [
                   "cnc",
                   "g2core",
@@ -754,7 +754,7 @@
                 "open_issues": 151,
                 "owner": "inkcut",
                 "repo": "inkcut",
-                "stars": 426,
+                "stars": 427,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1128,7 +1128,7 @@
                 "open_issues": 21,
                 "owner": "autotrace",
                 "repo": "autotrace",
-                "stars": 730,
+                "stars": 731,
                 "topics": [
                   "hacktoberfest",
                   "svg",
@@ -1450,10 +1450,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-27T14:58:51Z",
-                "open_issues": 270,
+                "open_issues": 272,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22675,
+                "stars": 22676,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1712,7 +1712,7 @@
             "open_issues": 12,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15327,
+            "stars": 15330,
             "topics": [
               "3d-graphics",
               "art",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:45:22.925Z",
+    "last_updated": "2026-09-17T17:45:19.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
