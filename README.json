@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "jamescarruthers",
                 "repo": "PlotteRXY",
-                "stars": 97,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -298,7 +298,7 @@
                 "open_issues": 4,
                 "owner": "aubergene",
                 "repo": "d3-hpgl",
-                "stars": 21,
+                "stars": 22,
                 "topics": [
                   "d3",
                   "hpgl",
@@ -638,7 +638,7 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2025-05-29T16:00:01Z",
-                "open_issues": 616,
+                "open_issues": 617,
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
                 "stars": 1637,
@@ -1453,7 +1453,7 @@
                 "open_issues": 272,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22676,
+                "stars": 22678,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1479,7 +1479,7 @@
                 "id": 220951503,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T16:16:51Z",
+                "last_commit": "2026-09-18T01:31:57Z",
                 "open_issues": 65,
                 "owner": "abey79",
                 "repo": "vpype",
@@ -1712,7 +1712,7 @@
             "open_issues": 12,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15330,
+            "stars": 15335,
             "topics": [
               "3d-graphics",
               "art",
@@ -1751,7 +1751,7 @@
             "open_issues": 12,
             "owner": "kosmos",
             "repo": "awesome-generative-art",
-            "stars": 1840,
+            "stars": 1841,
             "topics": [
               "artists",
               "awesome",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:45:19.748Z",
+    "last_updated": "2026-09-18T17:15:42.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",

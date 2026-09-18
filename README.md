@@ -45,7 +45,7 @@ A short selection of resources to help you get started with pen plotters.
 
 Pen plotters available to build or purchase, historical information, and restoration projects.
 
-* [PlotterXY](https://github.com/jamescarruthers/PlotterXY) ⭐ 97 | 🐛 7 | 🌐 G-code | 📅 2024-07-22 - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
+* [PlotterXY](https://github.com/jamescarruthers/PlotterXY) ⭐ 96 | 🐛 7 | 🌐 G-code | 📅 2024-07-22 - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
 * [Apple-410](https://github.com/phooky/Apple-410) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2025-04-29 - Apple 410 Color Plotter documentation, drivers, and ROM dumps.
 * [openBrushograph](https://github.com/openBrushograph/openBrushograph_hardware) ⭐ 24 | 🐛 0 | 🌐 OpenSCAD | 📅 2026-09-17 - Open source 3d-printable XY gantry and Z-stage designed for automated brush and pen painting.
 * [Lego-Pen-Plotter](https://github.com/Jormono1/Lego-Pen-Plotter) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-06-17 - Pen plotter built entirely of LEGO and programmed with PyBricks and Python.
@@ -107,7 +107,7 @@ HPGL is a text-based protocol used by most old pen plotters and many new vinyl c
 * [Chiplotle](https://github.com/drepetto/chiplotle) ⭐ 40 | 🐛 7 | 🌐 Python | 📅 2021-11-06 - Python library for generating HPGL and interfacing with serial plotters.
 * [vec](https://github.com/anachrocomputer/vec) ⭐ 27 | 🐛 3 | 🌐 C | 📅 2025-06-21 - Example C code for generating HPGL, with a turtle graphics interface.
 * [HPGL Viewer](https://github.com/drskullster/HPGLViewer) ⭐ 23 | 🐛 7 | 🌐 JavaScript | 📅 2026-02-14 - An HPGL Viewer using JavaScript and HTML5 canvas.
-* [d3-hpgl](https://github.com/aubergene/d3-hpgl) ⭐ 21 | 🐛 4 | 🌐 JavaScript | 📅 2019-09-29 - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org) library.
+* [d3-hpgl](https://github.com/aubergene/d3-hpgl) ⭐ 22 | 🐛 4 | 🌐 JavaScript | 📅 2019-09-29 - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org) library.
 * [HPGLGraphics](https://github.com/ciaron/HPGLGraphics) ⭐ 20 | 🐛 1 | 🌐 Java | 📅 2017-12-03 - A Processing library for writing HPGL files.
 * [Chiplotle3](https://github.com/cyprienh/chiplotle3) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-03-10 - Chiplotle fork updated for Python 3.x compatibility.
 * [HPGL Sender](https://github.com/LgHS/hpgl-sender) ⭐ 12 | 🐛 5 | 🌐 JavaScript | 📅 2023-04-29 - A web interface for previewing HPGL and sending it to your plotter.
@@ -137,7 +137,7 @@ G-code is a text-based standard for controlling CNC machines. Though it was desi
 Software for controlling plotter hardware.
 
 * [bCNC](https://github.com/vlachoudis/bCNC) ⭐ 1,747 | 🐛 516 | 🌐 Python | 📅 2026-04-15 - Cross-platform G-code sender and CNC control software for grbl.
-* [LaserGRBL](https://github.com/arkypita/LaserGRBL) ⭐ 1,637 | 🐛 616 | 🌐 C# | 📅 2025-05-29 - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
+* [LaserGRBL](https://github.com/arkypita/LaserGRBL) ⭐ 1,637 | 🐛 617 | 🌐 C# | 📅 2025-05-29 - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
 * [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) ⭐ 893 | 🐛 22 | 🌐 C# | 📅 2026-08-16 - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
 * [saxi](https://github.com/nornagon/saxi) ⭐ 503 | 🐛 40 | 🌐 TypeScript | 📅 2025-02-20 - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 * [axidraw](https://github.com/evil-mad/axidraw) ⭐ 468 | 🐛 13 | 🌐 Python | 📅 2024-04-12 - Official AxiDraw extensions for Inkscape.
@@ -201,8 +201,8 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 
 Tools to manipulate and optimize vector-based file formats.
 
-* [svgo](https://github.com/svg/svgo) ⭐ 22,676 | 🐛 272 | 🌐 JavaScript | 📅 2026-08-27 - Node.js-based tool for optimizing SVG files.
-* [vpype](https://github.com/abey79/vpype) ⭐ 938 | 🐛 65 | 🌐 Python | 📅 2026-09-01 - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
+* [svgo](https://github.com/svg/svgo) ⭐ 22,678 | 🐛 272 | 🌐 JavaScript | 📅 2026-08-27 - Node.js-based tool for optimizing SVG files.
+* [vpype](https://github.com/abey79/vpype) ⭐ 938 | 🐛 65 | 🌐 Python | 📅 2026-09-18 - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 * [svg-crowbar](https://github.com/NYTimes/svg-crowbar) ⚠️ Archived - Chrome-only bookmarklet for extracting SVG from an HTML document.
 * [svgsort](https://github.com/inconvergent/svgsort) ⚠️ Archived - Path planning for plotting SVG files, reduces time spent moving with the pen up.
 * [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) ⭐ 161 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2021-02-01 - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
@@ -427,10 +427,10 @@ Artists selling plotter art online.
 
 Related awesome lists for further exploration.
 
-* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,330 | 🐛 12 | 🌐 HTML | 📅 2026-07-21
-* [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) ⭐ 1,840 | 🐛 12 | 📅 2024-06-04
+* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,335 | 🐛 12 | 🌐 HTML | 📅 2026-07-21
+* [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) ⭐ 1,841 | 🐛 12 | 📅 2024-06-04
 * [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters) ⭐ 102 | 🐛 0 | 📅 2020-12-29
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
