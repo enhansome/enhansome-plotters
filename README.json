@@ -638,10 +638,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2025-05-29T16:00:01Z",
-                "open_issues": 617,
+                "open_issues": 618,
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1642,
+                "stars": 1645,
                 "topics": [
                   "engraver",
                   "gcode",
@@ -667,7 +667,7 @@
                 "open_issues": 22,
                 "owner": "svenhb",
                 "repo": "GRBL-Plotter",
-                "stars": 896,
+                "stars": 897,
                 "topics": [
                   "cad",
                   "cam",
@@ -1081,7 +1081,7 @@
                 "open_issues": 12,
                 "owner": "fogleman",
                 "repo": "ln",
-                "stars": 3377,
+                "stars": 3378,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1453,7 +1453,7 @@
                 "open_issues": 272,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22692,
+                "stars": 22696,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1635,7 +1635,7 @@
                 "open_issues": 3,
                 "owner": "kamalmostafa",
                 "repo": "hershey-fonts",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1712,7 +1712,7 @@
             "open_issues": 12,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15354,
+            "stars": 15357,
             "topics": [
               "3d-graphics",
               "art",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:46:24.806Z",
+    "last_updated": "2026-09-23T17:58:48.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
@@ -1803,7 +1803,7 @@
       "open_issues": 5,
       "owner": "beardicus",
       "repo": "awesome-plotters",
-      "stars": 1457,
+      "stars": 1458,
       "topics": [
         "awesome",
         "awesome-list",
