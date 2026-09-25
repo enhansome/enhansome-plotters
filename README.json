@@ -474,7 +474,7 @@
                 "open_issues": 192,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2262,
+                "stars": 2263,
                 "topics": [
                   "cnc",
                   "g2core",
@@ -641,7 +641,7 @@
                 "open_issues": 618,
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1650,
+                "stars": 1651,
                 "topics": [
                   "engraver",
                   "gcode",
@@ -1128,7 +1128,7 @@
                 "open_issues": 21,
                 "owner": "autotrace",
                 "repo": "autotrace",
-                "stars": 734,
+                "stars": 735,
                 "topics": [
                   "hacktoberfest",
                   "svg",
@@ -1453,7 +1453,7 @@
                 "open_issues": 272,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22697,
+                "stars": 22700,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1483,7 +1483,7 @@
                 "open_issues": 66,
                 "owner": "abey79",
                 "repo": "vpype",
-                "stars": 939,
+                "stars": 940,
                 "topics": [
                   "generative-art",
                   "hacktoberfest",
@@ -1712,7 +1712,7 @@
             "open_issues": 13,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15358,
+            "stars": 15364,
             "topics": [
               "3d-graphics",
               "art",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:59:06.956Z",
+    "last_updated": "2026-09-25T18:05:38.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
