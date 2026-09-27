@@ -417,7 +417,7 @@
                 "open_issues": 566,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6282,
+                "stars": 6283,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -438,7 +438,7 @@
                 "open_issues": 141,
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2647,
+                "stars": 2646,
                 "topics": [
                   "cnc",
                   "cnc-milling-controller",
@@ -620,7 +620,7 @@
                 "open_issues": 516,
                 "owner": "vlachoudis",
                 "repo": "bCNC",
-                "stars": 1747,
+                "stars": 1746,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -641,7 +641,7 @@
                 "open_issues": 619,
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1655,
+                "stars": 1656,
                 "topics": [
                   "engraver",
                   "gcode",
@@ -1081,7 +1081,7 @@
                 "open_issues": 12,
                 "owner": "fogleman",
                 "repo": "ln",
-                "stars": 3378,
+                "stars": 3379,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1124,8 +1124,8 @@
                 "id": 11617405,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-26T11:48:02Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-27T17:53:17Z",
+                "open_issues": 14,
                 "owner": "autotrace",
                 "repo": "autotrace",
                 "stars": 735,
@@ -1153,7 +1153,7 @@
                 "open_issues": 48,
                 "owner": "SonarSonic",
                 "repo": "DrawingBotV3",
-                "stars": 521,
+                "stars": 522,
                 "topics": [
                   "drawing-application",
                   "gcode",
@@ -1453,7 +1453,7 @@
                 "open_issues": 272,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22702,
+                "stars": 22703,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1709,10 +1709,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-07-21T15:01:30Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15367,
+            "stars": 15369,
             "topics": [
               "3d-graphics",
               "art",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:23:46.049Z",
+    "last_updated": "2026-09-27T17:56:52.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
