@@ -417,7 +417,7 @@
                 "open_issues": 566,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6283,
+                "stars": 6284,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -438,7 +438,7 @@
                 "open_issues": 141,
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2646,
+                "stars": 2647,
                 "topics": [
                   "cnc",
                   "cnc-milling-controller",
@@ -470,7 +470,7 @@
                 "id": 4801382,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T08:36:48Z",
+                "last_commit": "2026-09-28T04:33:11Z",
                 "open_issues": 193,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
@@ -641,7 +641,7 @@
                 "open_issues": 619,
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1656,
+                "stars": 1659,
                 "topics": [
                   "engraver",
                   "gcode",
@@ -1124,11 +1124,11 @@
                 "id": 11617405,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-27T17:53:17Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-28T17:41:48Z",
+                "open_issues": 8,
                 "owner": "autotrace",
                 "repo": "autotrace",
-                "stars": 735,
+                "stars": 738,
                 "topics": [
                   "hacktoberfest",
                   "svg",
@@ -1153,7 +1153,7 @@
                 "open_issues": 48,
                 "owner": "SonarSonic",
                 "repo": "DrawingBotV3",
-                "stars": 522,
+                "stars": 523,
                 "topics": [
                   "drawing-application",
                   "gcode",
@@ -1207,7 +1207,7 @@
                 "open_issues": 0,
                 "owner": "gwygonik",
                 "repo": "SquiggleDraw",
-                "stars": 337,
+                "stars": 338,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1453,7 +1453,7 @@
                 "open_issues": 272,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22703,
+                "stars": 22705,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1483,7 +1483,7 @@
                 "open_issues": 66,
                 "owner": "abey79",
                 "repo": "vpype",
-                "stars": 940,
+                "stars": 941,
                 "topics": [
                   "generative-art",
                   "hacktoberfest",
@@ -1712,7 +1712,7 @@
             "open_issues": 14,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15369,
+            "stars": 15374,
             "topics": [
               "3d-graphics",
               "art",
@@ -1748,7 +1748,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-06-04T08:35:54Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "kosmos",
             "repo": "awesome-generative-art",
             "stars": 1843,
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:56:52.377Z",
+    "last_updated": "2026-09-28T20:15:00.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
@@ -1800,7 +1800,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-12-03T21:39:31Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "beardicus",
       "repo": "awesome-plotters",
       "stars": 1459,
