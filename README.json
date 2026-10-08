@@ -417,7 +417,7 @@
                 "open_issues": 566,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6290,
+                "stars": 6289,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -438,7 +438,7 @@
                 "open_issues": 141,
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2646,
+                "stars": 2649,
                 "topics": [
                   "cnc",
                   "cnc-milling-controller",
@@ -638,10 +638,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2025-05-29T16:00:01Z",
-                "open_issues": 628,
+                "open_issues": 630,
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1660,
+                "stars": 1661,
                 "topics": [
                   "engraver",
                   "gcode",
@@ -1081,7 +1081,7 @@
                 "open_issues": 12,
                 "owner": "fogleman",
                 "repo": "ln",
-                "stars": 3453,
+                "stars": 3454,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1128,7 +1128,7 @@
                 "open_issues": 8,
                 "owner": "autotrace",
                 "repo": "autotrace",
-                "stars": 741,
+                "stars": 743,
                 "topics": [
                   "hacktoberfest",
                   "svg",
@@ -1450,10 +1450,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-27T14:58:51Z",
-                "open_issues": 275,
+                "open_issues": 276,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22713,
+                "stars": 22715,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1712,7 +1712,7 @@
             "open_issues": 13,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15410,
+            "stars": 15415,
             "topics": [
               "3d-graphics",
               "art",
@@ -1781,7 +1781,7 @@
             "open_issues": 0,
             "owner": "msurguy",
             "repo": "awesome-3d-engines-for-plotters",
-            "stars": 102,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:33:33.686Z",
+    "last_updated": "2026-10-08T19:30:00.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
@@ -1800,10 +1800,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-12-03T21:39:31Z",
-      "open_issues": 12,
+      "open_issues": 8,
       "owner": "beardicus",
       "repo": "awesome-plotters",
-      "stars": 1464,
+      "stars": 1467,
       "topics": [
         "awesome",
         "awesome-list",
