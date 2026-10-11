@@ -60,7 +60,7 @@
                 "language": "OpenSCAD",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-20T14:18:56Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "openBrushograph",
                 "repo": "openBrushograph_hardware",
                 "stars": 26,
@@ -417,7 +417,7 @@
                 "open_issues": 565,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6291,
+                "stars": 6293,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -438,7 +438,7 @@
                 "open_issues": 141,
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2653,
+                "stars": 2654,
                 "topics": [
                   "cnc",
                   "cnc-milling-controller",
@@ -474,7 +474,7 @@
                 "open_issues": 195,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2268,
+                "stars": 2269,
                 "topics": [
                   "cnc",
                   "g2core",
@@ -620,7 +620,7 @@
                 "open_issues": 519,
                 "owner": "vlachoudis",
                 "repo": "bCNC",
-                "stars": 1748,
+                "stars": 1749,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -641,7 +641,7 @@
                 "open_issues": 631,
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1661,
+                "stars": 1662,
                 "topics": [
                   "engraver",
                   "gcode",
@@ -751,7 +751,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-11T12:43:31Z",
-                "open_issues": 151,
+                "open_issues": 154,
                 "owner": "inkcut",
                 "repo": "inkcut",
                 "stars": 432,
@@ -943,7 +943,7 @@
                 "open_issues": 2,
                 "owner": "mossblaser",
                 "repo": "plottie",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1102,7 +1102,7 @@
                 "open_issues": 7,
                 "owner": "LingDong-",
                 "repo": "linedraw",
-                "stars": 866,
+                "stars": 867,
                 "topics": [
                   "artwork",
                   "convert-images",
@@ -1333,7 +1333,7 @@
                 "open_issues": 0,
                 "owner": "piebro",
                 "repo": "plotting-maps",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "map",
                   "openstreetmap",
@@ -1453,7 +1453,7 @@
                 "open_issues": 276,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22715,
+                "stars": 22716,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1483,7 +1483,7 @@
                 "open_issues": 67,
                 "owner": "abey79",
                 "repo": "vpype",
-                "stars": 961,
+                "stars": 963,
                 "topics": [
                   "generative-art",
                   "hacktoberfest",
@@ -1709,10 +1709,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-07-21T15:01:30Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15424,
+            "stars": 15430,
             "topics": [
               "3d-graphics",
               "art",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:03:09.810Z",
+    "last_updated": "2026-10-11T18:29:00.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
