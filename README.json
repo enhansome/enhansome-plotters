@@ -28,6 +28,27 @@
             },
             {
               "node_type": "item",
+              "title": "openBrushograph",
+              "description": "Open source 3d-printable XY gantry and Z-stage designed for automated brush and pen painting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A simple, open source and 3D-printable DIY x-y gantry and z-mechanism for making a brush painting robot",
+                "homepage": null,
+                "id": 1104862494,
+                "language": "OpenSCAD",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-20T14:18:56Z",
+                "open_issues": 3,
+                "owner": "openBrushograph",
+                "repo": "openBrushograph_hardware",
+                "stars": 28,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:13:29.230Z"
+            },
+            {
+              "node_type": "item",
               "title": "Apple-410",
               "description": "Apple 410 Color Plotter documentation, drivers, and ROM dumps.",
               "children": [],
@@ -43,27 +64,6 @@
                 "owner": "phooky",
                 "repo": "Apple-410",
                 "stars": 28,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:13:29.230Z"
-            },
-            {
-              "node_type": "item",
-              "title": "openBrushograph",
-              "description": "Open source 3d-printable XY gantry and Z-stage designed for automated brush and pen painting.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A simple, open source and 3D-printable DIY x-y gantry and z-mechanism for making a brush painting robot",
-                "homepage": null,
-                "id": 1104862494,
-                "language": "OpenSCAD",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-20T14:18:56Z",
-                "open_issues": 3,
-                "owner": "openBrushograph",
-                "repo": "openBrushograph_hardware",
-                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -417,7 +417,7 @@
                 "open_issues": 565,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6294,
+                "stars": 6295,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -471,7 +471,7 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-12T10:59:11Z",
-                "open_issues": 198,
+                "open_issues": 199,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
                 "stars": 2270,
@@ -664,7 +664,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-12T15:17:59Z",
-                "open_issues": 21,
+                "open_issues": 26,
                 "owner": "svenhb",
                 "repo": "GRBL-Plotter",
                 "stars": 899,
@@ -1081,7 +1081,7 @@
                 "open_issues": 12,
                 "owner": "fogleman",
                 "repo": "ln",
-                "stars": 3464,
+                "stars": 3465,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1128,7 +1128,7 @@
                 "open_issues": 8,
                 "owner": "autotrace",
                 "repo": "autotrace",
-                "stars": 743,
+                "stars": 744,
                 "topics": [
                   "hacktoberfest",
                   "svg",
@@ -1153,7 +1153,7 @@
                 "open_issues": 48,
                 "owner": "SonarSonic",
                 "repo": "DrawingBotV3",
-                "stars": 526,
+                "stars": 527,
                 "topics": [
                   "drawing-application",
                   "gcode",
@@ -1450,10 +1450,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-27T14:58:51Z",
-                "open_issues": 276,
+                "open_issues": 275,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22726,
+                "stars": 22730,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1483,7 +1483,7 @@
                 "open_issues": 67,
                 "owner": "abey79",
                 "repo": "vpype",
-                "stars": 967,
+                "stars": 969,
                 "topics": [
                   "generative-art",
                   "hacktoberfest",
@@ -1539,7 +1539,7 @@
                 "open_issues": 1,
                 "owner": "inconvergent",
                 "repo": "svgsort",
-                "stars": 262,
+                "stars": 263,
                 "topics": [
                   "art",
                   "optimization",
@@ -1709,10 +1709,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-07-21T15:01:30Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15436,
+            "stars": 15438,
             "topics": [
               "3d-graphics",
               "art",
@@ -1748,7 +1748,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-06-04T08:35:54Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "kosmos",
             "repo": "awesome-generative-art",
             "stars": 1847,
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:57:47.156Z",
+    "last_updated": "2026-10-14T18:11:16.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
