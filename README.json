@@ -435,7 +435,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-21T16:26:31Z",
-                "open_issues": 143,
+                "open_issues": 145,
                 "owner": "cncjs",
                 "repo": "cncjs",
                 "stars": 2656,
@@ -474,7 +474,7 @@
                 "open_issues": 199,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2270,
+                "stars": 2271,
                 "topics": [
                   "cnc",
                   "g2core",
@@ -638,10 +638,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2025-05-29T16:00:01Z",
-                "open_issues": 631,
+                "open_issues": 632,
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1662,
+                "stars": 1663,
                 "topics": [
                   "engraver",
                   "gcode",
@@ -1081,7 +1081,7 @@
                 "open_issues": 12,
                 "owner": "fogleman",
                 "repo": "ln",
-                "stars": 3466,
+                "stars": 3470,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1362,7 +1362,7 @@
                 "open_issues": 7,
                 "owner": "fullscreennl",
                 "repo": "blackstripes-python-extensions",
-                "stars": 102,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1453,7 +1453,7 @@
                 "open_issues": 275,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22740,
+                "stars": 22744,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1483,7 +1483,7 @@
                 "open_issues": 67,
                 "owner": "abey79",
                 "repo": "vpype",
-                "stars": 970,
+                "stars": 972,
                 "topics": [
                   "generative-art",
                   "hacktoberfest",
@@ -1709,10 +1709,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-07-21T15:01:30Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15439,
+            "stars": 15443,
             "topics": [
               "3d-graphics",
               "art",
@@ -1748,10 +1748,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-06-04T08:35:54Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "kosmos",
             "repo": "awesome-generative-art",
-            "stars": 1847,
+            "stars": 1848,
             "topics": [
               "artists",
               "awesome",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T17:53:37.013Z",
+    "last_updated": "2026-10-16T17:42:17.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
