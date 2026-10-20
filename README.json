@@ -417,7 +417,7 @@
                 "open_issues": 565,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6297,
+                "stars": 6300,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -438,7 +438,7 @@
                 "open_issues": 144,
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2657,
+                "stars": 2658,
                 "topics": [
                   "cnc",
                   "cnc-milling-controller",
@@ -470,11 +470,11 @@
                 "id": 4801382,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T07:03:21Z",
-                "open_issues": 196,
+                "last_commit": "2026-10-20T04:55:44Z",
+                "open_issues": 195,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2271,
+                "stars": 2272,
                 "topics": [
                   "cnc",
                   "g2core",
@@ -616,11 +616,11 @@
                 "id": 25359717,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-04-15T08:00:34Z",
-                "open_issues": 519,
+                "last_commit": "2026-10-20T17:48:40Z",
+                "open_issues": 514,
                 "owner": "vlachoudis",
                 "repo": "bCNC",
-                "stars": 1749,
+                "stars": 1750,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -663,11 +663,11 @@
                 "id": 61285145,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T15:17:59Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-20T17:26:50Z",
+                "open_issues": 22,
                 "owner": "svenhb",
                 "repo": "GRBL-Plotter",
-                "stars": 900,
+                "stars": 901,
                 "topics": [
                   "cad",
                   "cam",
@@ -1081,7 +1081,7 @@
                 "open_issues": 12,
                 "owner": "fogleman",
                 "repo": "ln",
-                "stars": 3476,
+                "stars": 3477,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1128,7 +1128,7 @@
                 "open_issues": 8,
                 "owner": "autotrace",
                 "repo": "autotrace",
-                "stars": 747,
+                "stars": 748,
                 "topics": [
                   "hacktoberfest",
                   "svg",
@@ -1453,7 +1453,7 @@
                 "open_issues": 277,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22759,
+                "stars": 22761,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1480,7 +1480,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-07T05:46:24Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "abey79",
                 "repo": "vpype",
                 "stars": 977,
@@ -1709,10 +1709,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-07-21T15:01:30Z",
-            "open_issues": 20,
+            "open_issues": 22,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15460,
+            "stars": 15464,
             "topics": [
               "3d-graphics",
               "art",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:29:52.219Z",
+    "last_updated": "2026-10-20T18:07:28.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
