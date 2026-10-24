@@ -112,7 +112,7 @@
                 "open_issues": 73,
                 "owner": "synthetos",
                 "repo": "TinyG",
-                "stars": 947,
+                "stars": 946,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -417,7 +417,7 @@
                 "open_issues": 565,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6303,
+                "stars": 6306,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -470,11 +470,11 @@
                 "id": 4801382,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T00:11:34Z",
-                "open_issues": 199,
+                "last_commit": "2026-10-24T15:26:16Z",
+                "open_issues": 198,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2273,
+                "stars": 2274,
                 "topics": [
                   "cnc",
                   "g2core",
@@ -638,10 +638,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2025-05-29T16:00:01Z",
-                "open_issues": 637,
+                "open_issues": 638,
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1664,
+                "stars": 1665,
                 "topics": [
                   "engraver",
                   "gcode",
@@ -664,7 +664,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-20T17:26:50Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "svenhb",
                 "repo": "GRBL-Plotter",
                 "stars": 904,
@@ -1081,7 +1081,7 @@
                 "open_issues": 12,
                 "owner": "fogleman",
                 "repo": "ln",
-                "stars": 3488,
+                "stars": 3490,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1449,11 +1449,11 @@
                 "id": 5508088,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-27T14:58:51Z",
+                "last_commit": "2026-10-24T01:57:41Z",
                 "open_issues": 275,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22765,
+                "stars": 22766,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1479,11 +1479,11 @@
                 "id": 220951503,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-07T05:46:24Z",
-                "open_issues": 71,
+                "last_commit": "2026-10-23T23:48:56Z",
+                "open_issues": 72,
                 "owner": "abey79",
                 "repo": "vpype",
-                "stars": 978,
+                "stars": 980,
                 "topics": [
                   "generative-art",
                   "hacktoberfest",
@@ -1712,7 +1712,7 @@
             "open_issues": 25,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15474,
+            "stars": 15479,
             "topics": [
               "3d-graphics",
               "art",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:57:59.330Z",
+    "last_updated": "2026-10-24T17:01:04.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
@@ -1803,7 +1803,7 @@
       "open_issues": 12,
       "owner": "beardicus",
       "repo": "awesome-plotters",
-      "stars": 1473,
+      "stars": 1474,
       "topics": [
         "awesome",
         "awesome-list",
