@@ -417,7 +417,7 @@
                 "open_issues": 565,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6311,
+                "stars": 6313,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -474,7 +474,7 @@
                 "open_issues": 196,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2276,
+                "stars": 2277,
                 "topics": [
                   "cnc",
                   "g2core",
@@ -617,10 +617,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-27T12:14:58Z",
-                "open_issues": 502,
+                "open_issues": 503,
                 "owner": "vlachoudis",
                 "repo": "bCNC",
-                "stars": 1754,
+                "stars": 1755,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -667,7 +667,7 @@
                 "open_issues": 23,
                 "owner": "svenhb",
                 "repo": "GRBL-Plotter",
-                "stars": 905,
+                "stars": 906,
                 "topics": [
                   "cad",
                   "cam",
@@ -754,7 +754,7 @@
                 "open_issues": 151,
                 "owner": "inkcut",
                 "repo": "inkcut",
-                "stars": 437,
+                "stars": 438,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1081,7 +1081,7 @@
                 "open_issues": 12,
                 "owner": "fogleman",
                 "repo": "ln",
-                "stars": 3492,
+                "stars": 3495,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1128,7 +1128,7 @@
                 "open_issues": 8,
                 "owner": "autotrace",
                 "repo": "autotrace",
-                "stars": 752,
+                "stars": 753,
                 "topics": [
                   "hacktoberfest",
                   "svg",
@@ -1153,7 +1153,7 @@
                 "open_issues": 48,
                 "owner": "SonarSonic",
                 "repo": "DrawingBotV3",
-                "stars": 528,
+                "stars": 529,
                 "topics": [
                   "drawing-application",
                   "gcode",
@@ -1450,10 +1450,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T17:57:24Z",
-                "open_issues": 275,
+                "open_issues": 277,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22767,
+                "stars": 22773,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1635,7 +1635,7 @@
                 "open_issues": 3,
                 "owner": "kamalmostafa",
                 "repo": "hershey-fonts",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1712,7 +1712,7 @@
             "open_issues": 30,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15500,
+            "stars": 15506,
             "topics": [
               "3d-graphics",
               "art",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:59:56.195Z",
+    "last_updated": "2026-10-28T19:08:07.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
@@ -1803,7 +1803,7 @@
       "open_issues": 12,
       "owner": "beardicus",
       "repo": "awesome-plotters",
-      "stars": 1477,
+      "stars": 1480,
       "topics": [
         "awesome",
         "awesome-list",
