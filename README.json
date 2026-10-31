@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "openBrushograph",
                 "repo": "openBrushograph_hardware",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -434,8 +434,8 @@
                 "id": 41148102,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T16:26:31Z",
-                "open_issues": 145,
+                "last_commit": "2026-10-31T14:01:06Z",
+                "open_issues": 144,
                 "owner": "cncjs",
                 "repo": "cncjs",
                 "stars": 2664,
@@ -471,7 +471,7 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-25T12:56:34Z",
-                "open_issues": 197,
+                "open_issues": 191,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
                 "stars": 2279,
@@ -641,7 +641,7 @@
                 "open_issues": 639,
                 "owner": "arkypita",
                 "repo": "LaserGRBL",
-                "stars": 1668,
+                "stars": 1669,
                 "topics": [
                   "engraver",
                   "gcode",
@@ -1081,7 +1081,7 @@
                 "open_issues": 12,
                 "owner": "fogleman",
                 "repo": "ln",
-                "stars": 3500,
+                "stars": 3502,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1453,7 +1453,7 @@
                 "open_issues": 275,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22778,
+                "stars": 22782,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1712,7 +1712,7 @@
             "open_issues": 29,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15521,
+            "stars": 15523,
             "topics": [
               "3d-graphics",
               "art",
@@ -1751,7 +1751,7 @@
             "open_issues": 13,
             "owner": "kosmos",
             "repo": "awesome-generative-art",
-            "stars": 1851,
+            "stars": 1852,
             "topics": [
               "artists",
               "awesome",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:53:47.636Z",
+    "last_updated": "2026-10-31T17:57:05.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
