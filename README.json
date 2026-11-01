@@ -108,7 +108,7 @@
                 "id": 769672,
                 "language": "G-code",
                 "license": null,
-                "last_commit": "2026-10-29T23:12:20Z",
+                "last_commit": "2026-11-01T18:11:18Z",
                 "open_issues": 74,
                 "owner": "synthetos",
                 "repo": "TinyG",
@@ -417,7 +417,7 @@
                 "open_issues": 565,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6313,
+                "stars": 6314,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -471,10 +471,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-25T12:56:34Z",
-                "open_issues": 191,
+                "open_issues": 192,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2279,
+                "stars": 2281,
                 "topics": [
                   "cnc",
                   "g2core",
@@ -617,7 +617,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-29T15:20:04Z",
-                "open_issues": 503,
+                "open_issues": 504,
                 "owner": "vlachoudis",
                 "repo": "bCNC",
                 "stars": 1756,
@@ -1081,7 +1081,7 @@
                 "open_issues": 12,
                 "owner": "fogleman",
                 "repo": "ln",
-                "stars": 3502,
+                "stars": 3504,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1102,7 +1102,7 @@
                 "open_issues": 7,
                 "owner": "LingDong-",
                 "repo": "linedraw",
-                "stars": 871,
+                "stars": 872,
                 "topics": [
                   "artwork",
                   "convert-images",
@@ -1128,7 +1128,7 @@
                 "open_issues": 8,
                 "owner": "autotrace",
                 "repo": "autotrace",
-                "stars": 753,
+                "stars": 752,
                 "topics": [
                   "hacktoberfest",
                   "svg",
@@ -1186,7 +1186,7 @@
                 "open_issues": 9,
                 "owner": "evil-mad",
                 "repo": "stipplegen",
-                "stars": 486,
+                "stars": 487,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1453,7 +1453,7 @@
                 "open_issues": 275,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22782,
+                "stars": 22786,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1479,8 +1479,8 @@
                 "id": 220951503,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T06:55:42Z",
-                "open_issues": 64,
+                "last_commit": "2026-11-01T14:37:53Z",
+                "open_issues": 65,
                 "owner": "abey79",
                 "repo": "vpype",
                 "stars": 981,
@@ -1656,7 +1656,7 @@
                 "open_issues": 3,
                 "owner": "Andy1978",
                 "repo": "hf2gcode",
-                "stars": 55,
+                "stars": 54,
                 "topics": [
                   "g-code",
                   "hershey-fonts"
@@ -1712,7 +1712,7 @@
             "open_issues": 29,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15523,
+            "stars": 15529,
             "topics": [
               "3d-graphics",
               "art",
@@ -1751,7 +1751,7 @@
             "open_issues": 13,
             "owner": "kosmos",
             "repo": "awesome-generative-art",
-            "stars": 1852,
+            "stars": 1853,
             "topics": [
               "artists",
               "awesome",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:57:05.568Z",
+    "last_updated": "2026-11-01T18:36:13.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
@@ -1803,7 +1803,7 @@
       "open_issues": 12,
       "owner": "beardicus",
       "repo": "awesome-plotters",
-      "stars": 1482,
+      "stars": 1483,
       "topics": [
         "awesome",
         "awesome-list",
