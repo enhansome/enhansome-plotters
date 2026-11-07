@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "jamescarruthers",
                 "repo": "PlotteRXY",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -108,7 +108,7 @@
                 "id": 769672,
                 "language": "G-code",
                 "license": null,
-                "last_commit": "2026-11-06T19:59:57Z",
+                "last_commit": "2026-11-07T17:58:02Z",
                 "open_issues": 67,
                 "owner": "synthetos",
                 "repo": "TinyG",
@@ -368,7 +368,7 @@
                 "open_issues": 5,
                 "owner": "LgHS",
                 "repo": "hpgl-sender",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -417,7 +417,7 @@
                 "open_issues": 565,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6316,
+                "stars": 6318,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -435,7 +435,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-31T14:01:06Z",
-                "open_issues": 145,
+                "open_issues": 147,
                 "owner": "cncjs",
                 "repo": "cncjs",
                 "stars": 2666,
@@ -775,7 +775,7 @@
                 "open_issues": 14,
                 "owner": "fogleman",
                 "repo": "axi",
-                "stars": 285,
+                "stars": 284,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -875,7 +875,7 @@
                 "open_issues": 0,
                 "owner": "Line-us",
                 "repo": "Line-us-Programming",
-                "stars": 122,
+                "stars": 123,
                 "topics": [
                   "drawing",
                   "drawing-machine",
@@ -1102,7 +1102,7 @@
                 "open_issues": 7,
                 "owner": "LingDong-",
                 "repo": "linedraw",
-                "stars": 875,
+                "stars": 878,
                 "topics": [
                   "artwork",
                   "convert-images",
@@ -1128,7 +1128,7 @@
                 "open_issues": 8,
                 "owner": "autotrace",
                 "repo": "autotrace",
-                "stars": 752,
+                "stars": 753,
                 "topics": [
                   "hacktoberfest",
                   "svg",
@@ -1450,10 +1450,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T17:57:24Z",
-                "open_issues": 273,
+                "open_issues": 276,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22792,
+                "stars": 22796,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1712,7 +1712,7 @@
             "open_issues": 29,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15553,
+            "stars": 15562,
             "topics": [
               "3d-graphics",
               "art",
@@ -1748,7 +1748,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-06-04T08:35:54Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "kosmos",
             "repo": "awesome-generative-art",
             "stars": 1854,
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:05:57.021Z",
+    "last_updated": "2026-11-07T18:20:30.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
@@ -1803,7 +1803,7 @@
       "open_issues": 13,
       "owner": "beardicus",
       "repo": "awesome-plotters",
-      "stars": 1484,
+      "stars": 1485,
       "topics": [
         "awesome",
         "awesome-list",
