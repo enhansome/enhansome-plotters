@@ -104,12 +104,12 @@
               "repo_info": {
                 "archived": false,
                 "description": "Affordable Industrial Grade Motion Control",
-                "homepage": "https://github.com/synthetos/TinyG/wiki",
+                "homepage": "https://synthetos.com",
                 "id": 769672,
                 "language": "G-code",
                 "license": null,
-                "last_commit": "2026-11-15T18:38:02Z",
-                "open_issues": 63,
+                "last_commit": "2026-11-16T22:04:47Z",
+                "open_issues": 17,
                 "owner": "synthetos",
                 "repo": "TinyG",
                 "stars": 947,
@@ -417,7 +417,7 @@
                 "open_issues": 565,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6329,
+                "stars": 6331,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -438,7 +438,7 @@
                 "open_issues": 146,
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2667,
+                "stars": 2668,
                 "topics": [
                   "cnc",
                   "cnc-milling-controller",
@@ -471,10 +471,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-14T06:45:28Z",
-                "open_issues": 193,
+                "open_issues": 194,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2285,
+                "stars": 2287,
                 "topics": [
                   "cnc",
                   "g2core",
@@ -620,7 +620,7 @@
                 "open_issues": 506,
                 "owner": "vlachoudis",
                 "repo": "bCNC",
-                "stars": 1760,
+                "stars": 1761,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -751,7 +751,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-30T00:59:16Z",
-                "open_issues": 150,
+                "open_issues": 151,
                 "owner": "inkcut",
                 "repo": "inkcut",
                 "stars": 441,
@@ -1128,7 +1128,7 @@
                 "open_issues": 24,
                 "owner": "autotrace",
                 "repo": "autotrace",
-                "stars": 754,
+                "stars": 755,
                 "topics": [
                   "hacktoberfest",
                   "svg",
@@ -1186,7 +1186,7 @@
                 "open_issues": 9,
                 "owner": "evil-mad",
                 "repo": "stipplegen",
-                "stars": 490,
+                "stars": 491,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1453,7 +1453,7 @@
                 "open_issues": 279,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22821,
+                "stars": 22824,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1712,7 +1712,7 @@
             "open_issues": 35,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15605,
+            "stars": 15611,
             "topics": [
               "3d-graphics",
               "art",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:28:25.539Z",
+    "last_updated": "2026-11-16T23:02:56.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
