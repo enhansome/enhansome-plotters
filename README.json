@@ -112,7 +112,7 @@
                 "open_issues": 14,
                 "owner": "synthetos",
                 "repo": "TinyG",
-                "stars": 947,
+                "stars": 948,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -417,7 +417,7 @@
                 "open_issues": 565,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6331,
+                "stars": 6330,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -438,7 +438,7 @@
                 "open_issues": 146,
                 "owner": "cncjs",
                 "repo": "cncjs",
-                "stars": 2668,
+                "stars": 2669,
                 "topics": [
                   "cnc",
                   "cnc-milling-controller",
@@ -474,7 +474,7 @@
                 "open_issues": 194,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
-                "stars": 2288,
+                "stars": 2287,
                 "topics": [
                   "cnc",
                   "g2core",
@@ -620,7 +620,7 @@
                 "open_issues": 507,
                 "owner": "vlachoudis",
                 "repo": "bCNC",
-                "stars": 1761,
+                "stars": 1760,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1453,7 +1453,7 @@
                 "open_issues": 280,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22829,
+                "stars": 22828,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1518,7 +1518,7 @@
                 "open_issues": 17,
                 "owner": "nytimes",
                 "repo": "svg-crowbar",
-                "stars": 844,
+                "stars": 843,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1709,10 +1709,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-07-21T15:01:30Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15627,
+            "stars": 15628,
             "topics": [
               "3d-graphics",
               "art",
@@ -1751,7 +1751,7 @@
             "open_issues": 15,
             "owner": "kosmos",
             "repo": "awesome-generative-art",
-            "stars": 1858,
+            "stars": 1857,
             "topics": [
               "artists",
               "awesome",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:37:24.310Z",
+    "last_updated": "2026-11-19T21:50:31.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
@@ -1803,7 +1803,7 @@
       "open_issues": 17,
       "owner": "beardicus",
       "repo": "awesome-plotters",
-      "stars": 1492,
+      "stars": 1491,
       "topics": [
         "awesome",
         "awesome-list",
