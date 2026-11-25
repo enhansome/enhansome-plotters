@@ -417,7 +417,7 @@
                 "open_issues": 566,
                 "owner": "grbl",
                 "repo": "grbl",
-                "stars": 6334,
+                "stars": 6335,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -434,7 +434,7 @@
                 "id": 41148102,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-23T05:45:45Z",
+                "last_commit": "2026-11-25T15:21:05Z",
                 "open_issues": 146,
                 "owner": "cncjs",
                 "repo": "cncjs",
@@ -471,7 +471,7 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-14T06:45:28Z",
-                "open_issues": 196,
+                "open_issues": 198,
                 "owner": "winder",
                 "repo": "Universal-G-Code-Sender",
                 "stars": 2289,
@@ -617,7 +617,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-10T20:06:51Z",
-                "open_issues": 510,
+                "open_issues": 511,
                 "owner": "vlachoudis",
                 "repo": "bCNC",
                 "stars": 1762,
@@ -751,7 +751,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-30T00:59:16Z",
-                "open_issues": 152,
+                "open_issues": 154,
                 "owner": "inkcut",
                 "repo": "inkcut",
                 "stars": 443,
@@ -922,7 +922,7 @@
                 "open_issues": 4,
                 "owner": "mossblaser",
                 "repo": "py_silhouette",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1081,7 +1081,7 @@
                 "open_issues": 12,
                 "owner": "fogleman",
                 "repo": "ln",
-                "stars": 3521,
+                "stars": 3522,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.230Z"
@@ -1124,8 +1124,8 @@
                 "id": 11617405,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-24T13:18:48Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-25T17:14:56Z",
+                "open_issues": 19,
                 "owner": "autotrace",
                 "repo": "autotrace",
                 "stars": 756,
@@ -1153,7 +1153,7 @@
                 "open_issues": 49,
                 "owner": "SonarSonic",
                 "repo": "DrawingBotV3",
-                "stars": 535,
+                "stars": 536,
                 "topics": [
                   "drawing-application",
                   "gcode",
@@ -1450,10 +1450,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-08T01:35:24Z",
-                "open_issues": 284,
+                "open_issues": 288,
                 "owner": "svg",
                 "repo": "svgo",
-                "stars": 22837,
+                "stars": 22838,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -1709,10 +1709,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-07-21T15:01:30Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15654,
+            "stars": 15660,
             "topics": [
               "3d-graphics",
               "art",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:16:44.397Z",
+    "last_updated": "2026-11-25T22:49:06.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
